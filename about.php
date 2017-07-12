@@ -112,197 +112,6 @@
     </div>
 </div>
 
-
-
-<!-- Time line -->
-
-<div class="container">
-
-    <div class="row">
-
-                    <div class="col-lg-12">
-
-                        <section class="cd-horizontal-timeline">
-                            <div class="timeline">
-                                <div class="events-wrapper">
-                                    <div class="events">
-                                        <ol>
-                                            <li><a href="#0" data-date="16/12/2011" class="selected">2011</a></li>
-                                            <li><a href="#0" data-date="28/09/2012">2012</a></li>
-                                            <li><a href="#0" data-date="05/01/2013">2013</a></li>
-                                            <li><a href="#0" data-date="10/09/2014">2014</a></li>
-                                            <li><a href="#0" data-date="07/05/2015">2015</a></li>
-                                            <li><a href="#0" data-date="20/12/2016">2016</a></li>
-                                            <!-- other dates here -->
-                                        </ol>
-
-                                        <span class="filling-line" aria-hidden="true"></span>
-                                    </div> <!-- .events -->
-                                </div> <!-- .events-wrapper -->
-
-                                <ul class="cd-timeline-navigation">
-                                    <li><a href="#0" class="prev inactive seoicon-play">Prev</a></li>
-                                    <li><a href="#0" class="next seoicon-play">Next</a></li>
-                                </ul> <!-- .cd-timeline-navigation -->
-                            </div> <!-- .timeline -->
-
-                            <div class="events-content">
-                                <ol>
-                                    <li class="selected" data-date="16/12/2011">
-                                        <div class="row">
-                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 table-cell">
-                                                <div class="time-line-thumb">
-                                                    <img src="img/time-line-thumb.png" alt="time-line">
-                                                </div>
-                                            </div>
-
-                                            <div class="col-lg-8 col-lg-offset-1 col-md-8 col-md-offset-1 col-sm-9 col-xs-12 table-cell">
-                                                <div class="time-line-content">
-                                                    <h6 class="time-line-subtitle">Dec, 2011</h6>
-                                                    <h5 class="time-line-title">Foundation of the Company</h5>
-                                                    <p class="time-line-text">Investigationes demonstraverunt lectores legere me lius quod ii legunt
-                                                        saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
-                                                        lectorum. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit
-                                                        lobortis nisl ut aliquip ex commodo est usus legentis in iis qui facit eorum.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </li>
-
-                                    <li data-date="28/09/2012">
-
-                                        <div class="row">
-                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 table-cell">
-                                                <div class="time-line-thumb">
-                                                    <img src="img/time-line-thumb.png" alt="time-line">
-                                                </div>
-                                            </div>
-
-                                            <div class="col-lg-8 col-lg-offset-1 col-md-8 col-md-offset-1 col-sm-9 col-xs-12 table-cell">
-                                                <div class="time-line-content">
-                                                    <h6 class="time-line-subtitle">Sept, 2012</h6>
-                                                    <h5 class="time-line-title">Foundation of the Company</h5>
-                                                    <p class="time-line-text">Investigationes demonstraverunt lectores legere me lius quod ii legunt
-                                                        saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
-                                                        lectorum. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit
-                                                        lobortis nisl ut aliquip ex commodo est usus legentis in iis qui facit eorum.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </li>
-
-                                    <li data-date="05/01/2013">
-
-                                        <div class="row">
-                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 table-cell">
-                                                <div class="time-line-thumb">
-                                                    <img src="img/time-line-thumb.png" alt="time-line">
-                                                </div>
-                                            </div>
-
-                                            <div class="col-lg-8 col-lg-offset-1 col-md-8 col-md-offset-1 col-sm-9 col-xs-12 table-cell">
-                                                <div class="time-line-content">
-                                                    <h6 class="time-line-subtitle">Jan, 2013</h6>
-                                                    <h5 class="time-line-title">Foundation of the Company</h5>
-                                                    <p class="time-line-text">Investigationes demonstraverunt lectores legere me lius quod ii legunt
-                                                        saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
-                                                        lectorum. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit
-                                                        lobortis nisl ut aliquip ex commodo est usus legentis in iis qui facit eorum.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </li>
-
-                                    <li class="" data-date="10/09/2014">
-                                        <div class="row">
-                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 table-cell">
-                                                <div class="time-line-thumb">
-                                                    <img src="img/time-line-thumb.png" alt="time-line">
-                                                </div>
-                                            </div>
-
-                                            <div class="col-lg-8 col-lg-offset-1 col-md-8 col-md-offset-1 col-sm-9 col-xs-12 table-cell">
-                                                <div class="time-line-content">
-                                                    <h6 class="time-line-subtitle">Sept, 2014</h6>
-                                                    <h5 class="time-line-title">Foundation of the Company</h5>
-                                                    <p class="time-line-text">Investigationes demonstraverunt lectores legere me lius quod ii legunt
-                                                        saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
-                                                        lectorum. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit
-                                                        lobortis nisl ut aliquip ex commodo est usus legentis in iis qui facit eorum.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-
-                                    <li data-date="07/05/2015">
-
-                                        <div class="row">
-                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 table-cell">
-                                                <div class="time-line-thumb">
-                                                    <img src="img/time-line-thumb.png" alt="time-line">
-                                                </div>
-                                            </div>
-
-                                            <div class="col-lg-8 col-md-8 col-md-offset-1 col-sm-12 col-xs-12 col-lg-offset-1 table-cell">
-                                                <div class="time-line-content">
-                                                    <h6 class="time-line-subtitle">May, 2015</h6>
-                                                    <h5 class="time-line-title">Foundation of the Company</h5>
-                                                    <p class="time-line-text">Investigationes demonstraverunt lectores legere me lius quod ii legunt
-                                                        saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
-                                                        lectorum. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit
-                                                        lobortis nisl ut aliquip ex commodo est usus legentis in iis qui facit eorum.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </li>
-
-                                    <li data-date="20/12/2016">
-
-                                        <div class="row">
-                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 table-cell">
-                                                <div class="time-line-thumb">
-                                                    <img src="img/time-line-thumb.png" alt="time-line">
-                                                </div>
-                                            </div>
-
-                                            <div class="col-lg-8 col-md-8 col-md-offset-1 col-sm-12 col-xs-12 col-lg-offset-1 table-cell">
-                                                <div class="time-line-content">
-                                                    <h6 class="time-line-subtitle">Dec, 2016</h6>
-                                                    <h5 class="time-line-title">Foundation of the Company</h5>
-                                                    <p class="time-line-text">Investigationes demonstraverunt lectores legere me lius quod ii legunt
-                                                        saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
-                                                        lectorum. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit
-                                                        lobortis nisl ut aliquip ex commodo est usus legentis in iis qui facit eorum.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </li>
-
-                                    <!-- other descriptions here -->
-                                </ol>
-                            </div> <!-- .events-content -->
-                        </section>
-
-                    </div>
-
-                </div>
-
-</div>
-
-<!-- End Time line -->
-
-
 <!-- Slider Profit -->
 
 <div class="section bg-greendark-color">
@@ -321,15 +130,27 @@
                             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                                 <div class="heading">
                                     <h4 class="h1 heading-title c-white mb30">We Work for Your Profit</h4>
-                                    <p class="c-white">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-                                        nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat wisi enim ad veniam.
+                                    <p class="c-white">SOFS, a new emerging software development company providing software solutions that partners with its clients to simplify, strengthen and transform their businesses by implementing innovative ideas.
                                     </p>
                                 </div>
+                               </div>
 
-                                <a href="21_seo_analysis.php" class="btn btn-medium btn--dark btn-hover-shadow">
-                                    <span class="text">Read More</span>
-                                    <span class="semicircle"></span>
-                                </a>
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                <div class="slider-profit-thumb">
+                                    <img src="img/profit.png" alt="profit">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slider-profit swiper-slide">
+                        <div class="row medium-padding120">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                <div class="heading">
+                                    <h4 class="h1 heading-title c-white mb30">We Work for Your Profit</h4>
+                                    <p class="c-white">consumer software applications are designed to run in uncontrolled user environment, thorough testing becomes a critical part of the product development lifecycle.
+                                    </p>
+                                </div>
                             </div>
 
                             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -345,16 +166,10 @@
                             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                                 <div class="heading">
                                     <h4 class="h1 heading-title c-white mb30">We Work for Your Profit</h4>
-                                    <p class="c-white">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-                                        nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat wisi enim ad veniam.
+                                    <p class="c-white">Companies must conduct thorough research on appropriate technologies, platforms and features before committing any to large financial outlays.
                                     </p>
                                 </div>
-
-                                <a href="21_seo_analysis.php" class="btn btn-medium btn--dark btn-hover-shadow">
-                                    <span class="text">Read More</span>
-                                    <span class="semicircle"></span>
-                                </a>
-                            </div>
+                                </div>
 
                             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                                 <div class="slider-profit-thumb">
@@ -369,40 +184,10 @@
                             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                                 <div class="heading">
                                     <h4 class="h1 heading-title c-white mb30">We Work for Your Profit</h4>
-                                    <p class="c-white">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-                                        nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat wisi enim ad veniam.
+                                    <p class="c-white">We hope to earn your trust and confidence through positive attitude, excitement for our work and commitment to a long-term partnership. 
                                     </p>
                                 </div>
-
-                                <a href="21_seo_analysis.php" class="btn btn-medium btn--dark btn-hover-shadow">
-                                    <span class="text">Read More</span>
-                                    <span class="semicircle"></span>
-                                </a>
-                            </div>
-
-                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                                <div class="slider-profit-thumb">
-                                    <img src="img/profit.png" alt="profit">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="slider-profit swiper-slide">
-                        <div class="row medium-padding120">
-                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                                <div class="heading">
-                                    <h4 class="h1 heading-title c-white mb30">We Work for Your Profit</h4>
-                                    <p class="c-white">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-                                        nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat wisi enim ad veniam.
-                                    </p>
-                                </div>
-
-                                <a href="21_seo_analysis.php" class="btn btn-medium btn--dark btn-hover-shadow">
-                                    <span class="text">Read More</span>
-                                    <span class="semicircle"></span>
-                                </a>
-                            </div>
+                           </div>
 
                             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                                 <div class="slider-profit-thumb">
@@ -563,13 +348,11 @@
                         </div>
                         <div class="info-box-content">
                             <h5 class="info-box-title">Excellent Support</h5>
-                            <p class="text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                                sed diam nonummy nibh euismod tincidunt laoreet dolore magna.
+                            <p class="text">We at SOFS, prepared to guide you in this endeavor. Our knowledge retention leads to higher productivity and thus lowers the cost of the engineering efforts with time.
                             </p>
                         </div>
                     </div>
                 </div>
-
                 <div class="col-lg-4 col-md-4 col-sm-12 col-sx-12">
                     <div class="info-box--standard">
                         <div class="info-box-image f-none">
@@ -577,13 +360,11 @@
                         </div>
                         <div class="info-box-content">
                             <h5 class="info-box-title">Awesome Team</h5>
-                            <p class="text">Claritas est etiam processus dynamicus, qui sequitur mutationem
-                                consuetudium lectorum investigationes demonstraverunt
-                            </p>
+                            <p class="text">Software developers and marketing managers must have an extremely low tolerance for defects, as any problems will impact not only current customers, but also the potential for future growth.
+							</p>
                         </div>
                     </div>
                 </div>
-
                 <div class="col-lg-4 col-md-4 col-sm-12 col-sx-12">
                     <div class="info-box--standard">
                         <div class="info-box-image f-none">
@@ -591,9 +372,8 @@
                         </div>
                         <div class="info-box-content">
                             <h5 class="info-box-title">Faster Performance</h5>
-                            <p class="text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                                sed diam nonummy nibh euismod.
-                            </p>
+                            <p class="text">SOFS provides high quality software outsourcing services that address your time and budget-sensitive software technology requirements. Our software development and delivery approach allows us to create flexible solutions.
+							</p>
                         </div>
                     </div>
                 </div>

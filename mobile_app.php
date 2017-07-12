@@ -86,7 +86,7 @@ $page_id="contact";
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <img src="img/ppc.png" alt="PPC">
+                    <img src="img/slider3.png" alt="PPC">
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="heading">

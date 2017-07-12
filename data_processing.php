@@ -41,7 +41,7 @@ $page_id="contact";
 
 <div class="stunning-header stunning-header-bg-green">
     <div class="stunning-header-content">
-        <h1 class="stunning-header-title">Bull SMS & E-Marketing</h1>
+        <h1 class="stunning-header-title">Data Processing & Training</h1>
         <ul class="breadcrumbs">
             <li class="breadcrumbs-item">
                 <a href="home.php">Home</a>
@@ -50,7 +50,7 @@ $page_id="contact";
                 <i class="seoicon-right-arrow"></i>
             </li>
             <li class="breadcrumbs-item active">
-                <span href="#">Bull SMS & E-Marketing</span>
+                <span href="#">Data Processing & Training</span>
                 <i class="seoicon-right-arrow"></i>
             </li>
         </ul>
@@ -86,11 +86,11 @@ $page_id="contact";
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <img src="img/ppc.png" alt="PPC">
+                    <img src="img/slider7.png" alt="PPC">
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="heading">
-                        <h4 class="h1 heading-title">Bull SMS & E-Marketing</h4>
+                        <h4 class="h1 heading-title">Data Processing & Training</h4>
                         <div class="heading-line">
                             <span class="short-line"></span>
                             <span class="long-line"></span>

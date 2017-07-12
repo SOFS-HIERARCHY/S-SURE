@@ -86,7 +86,7 @@ $page_id="contact";
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <img src="img/ppc.png" alt="PPC">
+                    <img src="img/slider6.png" alt="PPC">
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="heading">
@@ -203,7 +203,7 @@ $page_id="contact";
     <div class="row medium-padding120 bg-border-color">
         <div class="container">
             <div class="row">
-                <div class="col-lg-2 col-md-2 col-sm-12 col-sx-12">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-sx-12">
                     <div class="info-box--standard">
                         <div class="info-box-image f-none">
                             <img src="img/info-box20.png" alt="image">

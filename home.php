@@ -89,7 +89,7 @@
                                     <div class="slider-content">
                                          <h3 class="h1 slider-content-title c-dark" data-swiper-parallax="-100">Software Development
                                         </h3>
-                                        <h5 class="slider-content-text" data-swiper-parallax="-200">At Online Innovations, we are experienced in developing websites that are easy to manage should you wish to do it yourself.
+                                        <h5 class="slider-content-text" data-swiper-parallax="-200">At trending Innovations, we are experienced in developing custom softwares that are easy to manage what you wish to do it yourself.
                                         </h5>
 
                                         <div class="main-slider-btn-wrap" data-swiper-parallax="-300">
@@ -159,7 +159,7 @@
                                          E-Marketing
                                         </h3>
 
-                                        <h5 class="slider-content-text" data-swiper-parallax="-200">We use an impeccable blend of various Email Marketing strategies to cross the barrier and reach out. Our planning comprises Mass Mailing and extremely thought after marketing campaigns.
+                                        <h5 class="slider-content-text" data-swiper-parallax="-200">We use an impeccable blend of various SMS & Email Marketing strategies to cross the barrier and reach out. Our planning comprises mass messaging and mailing with extremely thought after marketing campaigns.
                                         </h5>
 
                                         <div class="main-slider-btn-wrap" data-swiper-parallax="-300">
@@ -195,9 +195,8 @@
                                         <h3 class="h1 slider-content-title c-dark" data-swiper-parallax="-100">Data Processing & Training
                                         </h3>
 
-                                        <h5 class="slider-content-text" data-swiper-parallax="-200">The purpose of the present document on Personal Data Processing is to provide information on the way that personal information.
+                                        <h5 class="slider-content-text" data-swiper-parallax="-200">Our data processing system has the capability to naturally identify and classify documents and data then to learn new allocation or classifications and eradication / extraction methods.
                                         </h5>
-
                                         <div class="main-slider-btn-wrap" data-swiper-parallax="-300">
 
                                             <a href="data_processing.php"
@@ -299,7 +298,7 @@
                 </div>
                 <div class="info-box-content">
                     <h5 class="info-box-title">Incredible Technology</h5>
-                    <p class="text">SOFS Technology powers our clients to achieve high performance. We combine
+                    <p class="text">Our Technology powers our clients to achieve high performance. We combine
                      business and industry insights with innovative technology to drive growth for your business.
                     </p>
                 </div>
@@ -313,7 +312,7 @@
                 </div>
                 <div class="info-box-content">
                     <h5 class="info-box-title">Promising Delivery</h5>
-                    <p class="text">SOFS delivers next-generation business outcomes operations
+                    <p class="text">We delivers next-generation business outcomes operations
                      combines technology that digitizes, automates business processes & unlocks actionable insights.
                     </p>
                 </div>
@@ -327,7 +326,7 @@
                 </div>
                 <div class="info-box-content">
                     <h5 class="info-box-title">Priceless Maintanence</h5>
-                    <p class="text">SOFS application maintenance services provides excellent 
+                    <p class="text">Our application maintenance services provides excellent 
                     hassle free span offshore-ability & maintainability analysis, maintenance & enhancement anytime anywhere.
                     </p>
                 </div>
@@ -354,7 +353,7 @@
 
                             <div class="heading align-center">
                                 <h4 class="h1 heading-title">Need a New Websites?</h4>
-                                <p class="heading-text">Get a quote for your customized new website and hosting plan</p>
+                                <p class="heading-text">creates quality products that make your life easier</p>
                             </div>
 
                             <div class="contact-form">
@@ -568,7 +567,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="counter-item">
                             <div class="counter-numbers counter">
-                                <span data-speed="2000" data-refresh-interval="3" data-to="3" data-from="0">3</span>
+                                <span data-speed="2000" data-refresh-interval="2" data-to="2" data-from="0">2</span>
                             </div>
                             <span class="counter-title">Years of Service</span>
                             <div class="counter-line">
@@ -595,7 +594,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="counter-item">
                             <div class="counter-numbers counter">
-                                <span data-speed="2000" data-refresh-interval="3" data-to="50" data-from="400">50+</span>
+                                <span data-speed="2000" data-refresh-interval="3" data-to="15" data-from="400">15+</span>
                                 <div class="units">+</div>
                             </div>
                             <span class="counter-title">Satisfied Clients</span>
@@ -695,10 +694,13 @@
                                 <span class="short-line bg-yellow-color"></span>
                                 <span class="long-line bg-yellow-color"></span>
                             </div>
-                            <p class="heading-text c-white">Claritas est etiam processus dynamicus, qui lectorum.
+                            <p class="heading-text c-white">Every client and project we work on is special to us.A selection of recent client projects.
                             </p>
                         </div>
                         <div class="signature js-animate-icon">
+                        	<img src="img/psr.png" class="img-rounded" alt="Cinque Terre" width="200" height="60">
+                        </div>
+                        <!-- <div class="signature js-animate-icon">
                             <svg xmlns="http://www.w3.org/2000/svg" width="200" height="60">
                                 <path fill="none" stroke="#2f2c2c" stroke-width="1.4"
                                       d="M24.78 42.5C11.28 41.06.96 36 1.16 26.86 1.62 11.6 16.76 3.6 28.13 3.25c5.44-.16 9.8 2.38 10.2 5.8.86 7.66-19.23 15.62-19.23 15.62s17.86-6.57 24.66 2.2c2.8 3.6-11.8 10.65-11.8 10.65s-8.8 3.35-7.65-.24c1.78-5.52 16.8-10.1 18.42-10.3 3.17-.4 7.1-.4 8 .12 1.33.78-1.7 4.14-.94 4.86.76.72 3.82-2.55 3.94-1.97.12.57-.64 2.63.58 3 1.2.38 2.3-1.1 4.28-1.5 1.97-.4 1.83-.44 3.6-.12 1.76.32 2.1.64 3.47 1.4 1.36.74.86 2.22 1.96 1.6 1.1-.6 1.43-4.16 2.44-4.04 1.02.1.03 5.38 1.63 4.5 1.6-.85 4.74-7.97 4.74-7.97s-.82 4.04 0 3.93c3.14-.4 8.12-2.57 14.48-3.36 6.37-.78 8.67-.35 11 .24 1.92.48 2.67 2.3 2.67 2.3"
@@ -712,7 +714,7 @@
                                       stroke-linecap="round"></path>
                                 <path fill="none" stroke="#2f2c2c" stroke-width="1.4" d="M153.52 31.03s2.27-2.74-.7-3.35c-3.36-.7-3.7 2.43-3.7 2.43"></path>
                             </svg>
-                        </div>
+                        </div> -->
                     </div>
 
                     <div class="col-lg-7 col-lg-offset-1 col-md-8 col-sm-12 col-xs-12">
@@ -724,11 +726,10 @@
                                 <div class="swiper-wrapper">
                                     <div class="testimonial-slider-item swiper-slide">
                                         <div class="testimonial-content">
-                                            <p class="text" data-swiper-parallax="-200">Nam liber tempor cum soluta nobis eleifend option congue
-                                                nihil imperdiet doming id quod mazim.
+                                            <p class="text" data-swiper-parallax="-200">We are glad that we selected SOFS as a development partner for our product. A lot of success that we have is due to your timely execution and professional handling of the development. Thanks you for your help in giving shape to our dreams.
                                             </p>
-                                            <a href="#" class="author" data-swiper-parallax="-150">Jonathan Simpson</a>
-                                            <a href="#" class="company" data-swiper-parallax="-150">Envato Market</a>
+                                            <a href="#" class="author" data-swiper-parallax="-150">Balaji</a>
+                                            <a href="#" class="company" data-swiper-parallax="-150">Fresh Farm Supermarkets</a>
 
                                         </div>
                                         <div class="avatar" data-swiper-parallax="-50">
@@ -737,11 +738,10 @@
                                     </div>
                                     <div class="testimonial-slider-item swiper-slide">
                                         <div class="testimonial-content">
-                                            <p class="text" data-swiper-parallax="-200">Nam liber tempor cum soluta nobis eleifend option congue
-                                                nihil imperdiet doming id quod mazim.
+                                            <p class="text" data-swiper-parallax="-200">We are impressed with the quality you deliver. The ethical and impeccable conduct coupled with the project management approach you have makes you best in several Web deployment experience. Thanks for your unlimited services.
                                             </p>
                                             <a href="#" class="author" data-swiper-parallax="-150">Jonathan Simpson</a>
-                                            <a href="#" class="company" data-swiper-parallax="-150">Envato Market</a>
+                                            <a href="#" class="company" data-swiper-parallax="-150">Ajan Tours & Travels</a>
 
                                         </div>
                                         <div class="avatar" data-swiper-parallax="-50">
@@ -750,11 +750,10 @@
                                     </div>
                                     <div class="testimonial-slider-item swiper-slide">
                                         <div class="testimonial-content">
-                                            <p class="text" data-swiper-parallax="-200">Nam liber tempor cum soluta nobis eleifend option congue
-                                                nihil imperdiet doming id quod mazim.
+                                            <p class="text" data-swiper-parallax="-200">Working with SOFS is a pleasure. Their communication is outstanding! Job was done about in time, Thank you for also fixing some other issues along the way without a big fuss. Good knowledge of programming. Skilled, kind, trustworthy!
                                             </p>
                                             <a href="#" class="author" data-swiper-parallax="-150">Jonathan Simpson</a>
-                                            <a href="#" class="company" data-swiper-parallax="-150">Envato Market</a>
+                                            <a href="#" class="company" data-swiper-parallax="-150">Team Terasvin</a>
 
                                         </div>
                                         <div class="avatar" data-swiper-parallax="-50">
@@ -801,8 +800,7 @@
                                 <span class="short-line"></span>
                                 <span class="long-line"></span>
                             </div>
-                            <p class="heading-text">Claritas est etiam processus dynamicus,
-                                qui sequitur mutationem consuetudium.
+                            <p class="heading-text">We have separate teams for content development, design, coding, testing and online marketing.
                             </p>
                         </div>
                     </div>
@@ -819,30 +817,27 @@
                                 <a href="#" class="pricing-title">Personal</a>
                                 <ul class="pricing-tables-position">
                                     <li class="position-item">
-                                        <span class="count">5</span>
-                                        Analytics Campaigns
+                                        <span class="count">10</span>
+                                        Email Accounts
                                     </li>
                                     <li class="position-item">
-                                        <span class="count">300</span>
-                                        Keywords
+                                        <span class="count">1GB</span>
+                                        Web Hosting
                                     </li>
                                     <li class="position-item">
-                                        <span class="count">250,000</span>
-                                        Crawled Pages
+                                        <span class="count">Static</span>
+                                        Web Pages
                                     </li>
                                     <li class="position-item">
                                         -
                                     </li>
                                     <li class="position-item">
-                                        <span class="count">15</span>
-                                        Social Accounts
+                                        <span class="count">Mid</span>
+                                        Responsive
                                     </li>
                                 </ul>
-                                <h4 class="rate">$49.99</h4>
-                                <a href="20_checkout.php" class="btn btn-medium btn--dark">
-                                    <span class="text">Order Now!</span>
-                                    <span class="semicircle"></span>
-                                </a>
+                                <h4 class="rate">$5000</h4>
+                                
                                 <img src="img/pricing-dots.png" class="dots" alt="dots">
                             </div>
 
@@ -856,30 +851,27 @@
                                 <a href="#" class="pricing-title">Webmaster</a>
                                 <ul class="pricing-tables-position">
                                     <li class="position-item">
-                                        <span class="count">25</span>
-                                        Analytics Campaigns
+                                        <span class="count">50</span>
+                                      Email Accounts
                                     </li>
                                     <li class="position-item">
-                                        <span class="count">1,900</span>
-                                        Keywords
+                                        <span class="count">5GB</span>
+                                        Web Hosting
                                     </li>
                                     <li class="position-item">
-                                        <span class="count">1,250,000</span>
-                                        Crawled Pages
+                                        <span class="count">Partial Dynamic</span>
+                                        Web Pages
                                     </li>
                                     <li class="position-item include">
                                         Includes Branded Reports
                                     </li>
                                     <li class="position-item">
-                                        <span class="count">50</span>
-                                        Social Accounts
+                                        <span class="count">Multi</span>
+                                        Responsive
                                     </li>
                                 </ul>
-                                <h4 class="rate">$99.99</h4>
-                                <a href="20_checkout.php" class="btn btn-medium btn--dark">
-                                    <span class="text">Order Now!</span>
-                                    <span class="semicircle"></span>
-                                </a>
+                                <h4 class="rate">$10,000</h4>
+                                
 
                                 <img src="img/pricing-dots.png" class="dots" alt="dots">
                             </div>
@@ -894,30 +886,26 @@
                                 <ul class="pricing-tables-position">
                                     <li class="position-item">
                                         <span class="count">100</span>
-                                        Analytics Campaigns
+                                      Email Accounts
                                     </li>
                                     <li class="position-item">
-                                        <span class="count">7500</span>
-                                        Keywords
+                                        <span class="count">10GB</span>
+                                        Web Hosting
                                     </li>
                                     <li class="position-item">
-                                        <span class="count">1,250,000</span>
-                                        Crawled Pages
+                                        <span class="count">Fully Dynamic</span>
+                                    Web Pages
                                     </li>
                                     <li class="position-item include">
                                         Includes Branded Reports
                                     </li>
                                     <li class="position-item">
-                                        <span class="count">150</span>
-                                        Social Accounts
+                                        <span class="count">Multi</span>
+                                        Responsive
                                     </li>
                                 </ul>
-                                <h4 class="rate">$169.99</h4>
-                                <a href="20_checkout.php" class="btn btn-medium btn--dark">
-                                    <span class="text">Order Now!</span>
-                                    <span class="semicircle"></span>
-                                </a>
-
+                                <h4 class="rate">$20,000</h4>
+                                
                                 <img src="img/pricing-dots.png" class="dots" alt="dots">
                             </div>
                         </div>

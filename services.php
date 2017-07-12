@@ -120,7 +120,7 @@
         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
             <div class="servises-item bg-primary-color">
                 <div class="servises-item__thumb">
-                    <img src="img/services5.png" alt="service">
+                    <img src="img/services6.png" alt="service">
                 </div>
                 <div class="servises-item__content">
                     <h4 class="servises-title">Sotware Development</h4>
@@ -158,7 +158,7 @@
                 </div>
                 <div class="servises-item__content">
                     <h4 class="servises-title">Bulk SMS & E-Marketing</h4>
-                    <p class="servises-text">Our mobile marketing experts and technology consultants are always at hand to help startups and SMEs run the best SMS campaigns. We pride ourselves on delivering superior support to all our customers, irrespective of the company size!
+                    <p class="servises-text">Bulk SMS or bulk messaging refers to businesses sending SMS to one or more recipients via software platforms such as Textlocal. Bulk SMS can scale up to millions of recipients in the case of informational or promotional broadcasts.
                     </p>
                 </div>
 

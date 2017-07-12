@@ -18,8 +18,8 @@
                 <img src="img/logo.png" alt="Seosight">
             </div>
 
-            <p class="text">Investigationes demonstraverunt lectores legere me lius quod
-                ii legunt saepius est etiam processus dynamicus.
+            <p class="text">SOFS offers your company a professional andexperienced partner. The top priority at SOFS is customer
+service. we are proud to have been providing SoftwareDevelopment Outsourcing and IT Consulting using best practices.
             </p>
 
         </div>
@@ -57,8 +57,7 @@
         <div class="widget contacts">
 
             <h4 class="contacts-title">Get In Touch</h4>
-            <p class="contacts-text">Lorem ipsum dolor sit amet, duis metus ligula amet in purus,
-                vitae donec vestibulum enim, tincidunt massa sit, convallis ipsum.
+            <p class="contacts-text">SOFS Technology powers our clients to achieve high performance. We combine business and industry insights with innovative technology to drive growth for your business.
             </p>
 
             <div class="contacts-item">
