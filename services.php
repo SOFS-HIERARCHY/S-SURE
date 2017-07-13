@@ -112,7 +112,7 @@
                     </p>
                 </div>
 
-                <a href="04_service_detail_seo.php" class="read-more"><i class="seoicon-right-arrow"></i></a>
+                <a href="web_development.php" class="read-more"><i class="seoicon-right-arrow"></i></a>
 
             </div>
         </div>
@@ -128,7 +128,7 @@
                     </p>
                 </div>
 
-                <a href="05_service_details_localseo.php" class="read-more"><i class="seoicon-right-arrow"></i></a>
+                <a href="software_development.php" class="read-more"><i class="seoicon-right-arrow"></i></a>
 
             </div>
         </div>
@@ -146,7 +146,7 @@
                     </p>
                 </div>
 
-                <a href="06_service_detail.php" class="read-more"><i class="seoicon-right-arrow"></i></a>
+                <a href="mobile_app.php" class="read-more"><i class="seoicon-right-arrow"></i></a>
 
             </div>
         </div>
@@ -162,7 +162,7 @@
                     </p>
                 </div>
 
-                <a href="07_service_email_marketing.php" class="read-more"><i class="seoicon-right-arrow"></i></a>
+                <a href="bulk_sms.php" class="read-more"><i class="seoicon-right-arrow"></i></a>
 
             </div>
         </div>
@@ -178,7 +178,7 @@
                     </p>
                 </div>
 
-                <a href="08_service_ppc_management.php" class="read-more"><i class="seoicon-right-arrow"></i></a>
+                <a href="data_processing.php" class="read-more"><i class="seoicon-right-arrow"></i></a>
 
             </div>
         </div>

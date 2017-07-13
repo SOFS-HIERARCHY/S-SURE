@@ -49,7 +49,7 @@ $page_id="contact";
             <li class="breadcrumbs-item">
                 <a href="home.php" class="c-gray">Home</a>
                 <i class="seoicon-right-arrow"></i>
-                <a href="03_services.php" class="c-gray">Services</a>
+                <a href="services.php" class="c-gray">Services</a>
                 <i class="seoicon-right-arrow"></i>
             </li>
             <li class="breadcrumbs-item active">
@@ -90,9 +90,7 @@ $page_id="contact";
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
             <h5 class="mb30">Investigationes demonstraverunt lectores legere me lius quod saepius.</h5>
-            <p>Qolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibham liber tempor cum soluta nobis nunc
-                putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta
-                decima qui nunc nobis videntur parum clari, fiant sollemnes in futurum legentis qui.
+            <p>Sofs creates attractive, appropriate and usable designs which engage your audience and ensure an effective transmission of your message. With a strong emphasis on making websites intuitive and easy to use, we use our extensive in_house graphic design skills to produce cutting edge multimedia application and websites.
             </p>
         </div>
     </div>
@@ -194,8 +192,7 @@ $page_id="contact";
                     <ul class="list list--secondary">
                         <li>
                             <i class="seoicon-check"></i>
-                            <a href="#">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                                euismod tincidunt ut laoreet dolore wisi enim ad minim veniam.
+                            <a href="#">Our design team includes cutting edge technology professionals as well as creative artists and visualizers.
                             </a>
                         </li>
                     </ul>
@@ -205,8 +202,7 @@ $page_id="contact";
                     <ul class="list list--secondary">
                         <li>
                             <i class="seoicon-check"></i>
-                            <a href="#">Mirum est notare quam littera gothica, quam nunc putamus parum, anteposuerit
-                                litterarum formas duis dolore te feugait nulla facilisi.
+                            <a href="#">Our creative services department is devoted to developing a customized look and feel that will convey your application appropriately to your target audience.
                             </a>
                         </li>
                     </ul>
@@ -243,8 +239,7 @@ $page_id="contact";
                     <div class="info-box--standard-bg">
                         <div class="info-box-content">
                             <h4 class="info-box-title">Organic Search</h4>
-                            <p class="text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                                sed diam nonummy nibh euismod.
+                            <p class="text">Organic search is a method for entering one or a plurality of search items in a single data string into a search engine.
                             </p>
 
                             <div class="info-box-image">
@@ -258,8 +253,7 @@ $page_id="contact";
                     <div class="info-box--standard-bg">
                         <div class="info-box-content">
                             <h4 class="info-box-title">On-Page SEO</h4>
-                            <p class="text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                                sed diam nonummy nibh euismod.
+                            <p class="text">The best way to write your website is for the visitor. You never want to write ONLY for search engines.
                             </p>
 
                             <div class="info-box-image">
@@ -273,8 +267,8 @@ $page_id="contact";
                     <div class="info-box--standard-bg">
                         <div class="info-box-content">
                             <h4 class="info-box-title">Link Building</h4>
-                            <p class="text">Lorem ipsum dolor sit amet,
-                                consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+                            <p class="text">Link building refers to the process of getting external pages to link to a page on your website. 
+                            It is one of the many tactics used in search engine optimization (SEO).
                             </p>
 
                             <div class="info-box-image">

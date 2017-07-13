@@ -96,7 +96,7 @@ $page_id="contact";
                             <span class="long-line"></span>
                         </div>
                         <p class="heading-text">Bulk SMS or bulk messaging refers to businesses sending SMS to one or more recipients via software platforms such as Textlocal.
-                         E-marketing is the process of marketing a product or service using the Internet. Emarkerting not only includes marketing on the Internet, but also includes marketing done via e-mail and wireless media.</p>
+                         E-marketing is the process of marketing a product or service using the Internet. E-markerting not only includes marketing on the Internet, but also includes marketing done via e-mail and wireless media.</p>
 
                     </div>
 
@@ -116,71 +116,116 @@ $page_id="contact";
     </div>
 </div>
 
+<div class="container">
+    <div class="row pt120">
+        <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
+            <div class="heading align-center mb60">
+                <h4 class="h1 heading-title">The Best E-Marketing Strategy</h4>
+                <div class="heading-line">
+                    <span class="short-line"></span>
+                    <span class="long-line"></span>
+                </div>
 
+                <p class="heading-text">E-marketing is the act of sending a commercial message, typically to a group of people, using email. In its broadest sense, every email sent to a potential or current customer could be considered email marketing.
+                </p>
+            </div>
+        </div>
 
-<div class="container pt100 pb100">
+        <div class="col-lg-12 col-sm-12 col-xs-12">
+            <img src="img/marketing.png" alt="marketing">
+        </div>
+
+    </div>
+</div>
+
+<div class="container">
+    <div class="row pt120 mb30">
+
+        <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
+            <div class="heading align-center">
+                <h4 class="heading-title h1">Unrivalled Levels of Service</h4>
+                <div class="heading-line">
+                    <span class="short-line"></span>
+                    <span class="long-line"></span>
+                </div>
+                <p class="heading-text">We believe it is fundamental to our success to ensure our clients receive the highest levels of quality and service.
+                </p>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="row mb30">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div class="info-box--modern">
+                <div class="info-box-image">
+                    <img src="img/info-box25.png" alt="image">
+                </div>
+                <div class="info-box-content">
+                    <h5 class="info-box-title">The Best E-Marketing Strategy</h5>
+                    <p class="text">Join Hands with sofs to increase your customer-base, reach your target group effectively at a minimal cost. Save time and track your campaign from anywhere in the world.
+                    </p>
+                    <a href="#" class="read-more">Read More
+                        <i class="seoicon-right-arrow"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div class="info-box--modern">
+                <div class="info-box-image">
+                    <img src="img/info-box26.png" alt="image">
+                </div>
+                <div class="info-box-content">
+                    <h5 class="info-box-title">Email Template Design</h5>
+                    <p class="text">each marketer putting the development of an effective email marketing strategy on the top of your agenda and to do list seems like a no-brainer.
+                    </p>
+
+                    <a href="#" class="read-more">Read More
+                        <i class="seoicon-right-arrow"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="row mb60">
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <div class="info-box--standard">
+            <div class="info-box--modern">
                 <div class="info-box-image">
-                    <img src="img/info-box11.png" alt="image">
+                    <img src="img/info-box27.png" alt="image">
                 </div>
                 <div class="info-box-content">
-                    <h4 class="info-box-title text-t-none">Methodology</h4>
-                    <p class="text">Methodologies impose a disciplined process upon software development with the
-                     aim of making software development more predictable and more efficient. We do this by developing a 
-                    detailed process with a strong emphasis on planning inspired by our experiences and learnings in the past.
-                    </p>
+                    <h5 class="info-box-title">Tracking & Reporting</h5>
+                    <p class="text">Real-time reports and live sales notifications makes taking charge of your affiliate programs that much easier!
+					In order to run a successful campaign, you need to know the results being produced. </p>
+                    <a href="#" class="read-more">Read More
+                        <i class="seoicon-right-arrow"></i>
+                    </a>
                 </div>
             </div>
         </div>
+
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <div class="info-box--standard">
+            <div class="info-box--modern">
                 <div class="info-box-image">
-                    <img src="img/info-box12.png" alt="image">
+                    <img src="img/info-box28.png" alt="image">
                 </div>
                 <div class="info-box-content">
-                    <h4 class="info-box-title text-t-none">Technology</h4>
-                    <p class="text">Sofs team has worked with and researched numerous technologies and methodologies. 
-                    As new technology enters the market, which is currently happening at a rapid pace, we continuously 
-                    gear up for this new technology.
+                    <h5 class="info-box-title">E-Marketing
+                        Campaigns</h5>
+                    <p class="text">E-marketing campaigns are essential elements of any marketing strategy. They communicate and build relationships with prospects, gather important data, and help boost marketing ROI. 
                     </p>
+
+                    <a href="#" class="read-more">Read More
+                        <i class="seoicon-right-arrow"></i>
+                    </a>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="row">
-        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <div class="info-box--standard">
-                <div class="info-box-image">
-                    <img src="img/info-box13.png" alt="image">
-                </div>
-                <div class="info-box-content">
-                    <h4 class="info-box-title text-t-none">Quality</h4>
-                    <p class="text">Client may view the progress of their website as it is being developed. If during the 
-                    website creation process they will want to add something more that will cause no problems for us, we 
-                    ensure that it is taken care of. The job is not finished until a client reviews and approves the work done.
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <div class="info-box--standard">
-                <div class="info-box-image">
-                    <img src="img/info-box14.png" alt="image">
-                </div>
-                <div class="info-box-content">
-                    <h4 class="info-box-title text-t-none">Infrastructure</h4>
-                    <p class="text">Today web applications support most business initiatives, increasing the pressure on IT to deliver 
-                    web infrastructure that not only works, but enhances the quality of experience for end-users.Sofs ensures optimal
-                     web application performance and returning clients.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
 
 </div>
 <div class="container">
@@ -244,14 +289,6 @@ $page_id="contact";
 <!-- Info Box -->
 
 <?php include 'includes/footer.php';?>
-
-
-<!-- Footer -->
-
-
-
-
-<!-- End Footer -->
 
 
 <svg style="display:none;">

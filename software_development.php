@@ -115,6 +115,8 @@ $page_id="contact";
     </div>
 </div>
 
+
+
 <!-- Info Box -->
 
 <div class="container pt100 pb100">
@@ -137,7 +139,7 @@ $page_id="contact";
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
             <div class="info-box--standard">
                 <div class="info-box-image">
-                    <img src="img/info-box12.png" alt="image">
+                    <img src="img/info-box9.png" alt="image">
                 </div>
                 <div class="info-box-content">
                     <h4 class="info-box-title text-t-none">Technology</h4>
@@ -154,7 +156,7 @@ $page_id="contact";
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
             <div class="info-box--standard">
                 <div class="info-box-image">
-                    <img src="img/info-box13.png" alt="image">
+                    <img src="img/info-box17.png" alt="image">
                 </div>
                 <div class="info-box-content">
                     <h4 class="info-box-title text-t-none">Quality</h4>
@@ -172,7 +174,7 @@ $page_id="contact";
                 </div>
                 <div class="info-box-content">
                     <h4 class="info-box-title text-t-none">Infrastructure</h4>
-                    <p class="text">Today web applications support most business initiatives, increasing the pressure on IT to deliver 
+                    <p class="text">Today software development support most business initiatives, increasing the pressure on IT to deliver 
                     web infrastructure that not only works, but enhances the quality of experience for end-users.Sofs ensures optimal
                      web application performance and returning clients.
                     </p>

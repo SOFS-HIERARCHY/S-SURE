@@ -57,8 +57,6 @@ $page_id="contact";
     </div>
 </div>
 
-
-
 <!-- End Stunning header -->
 
 <!-- Overlay Search -->
@@ -88,7 +86,7 @@ $page_id="contact";
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <img src="img/ppc.png" alt="PPC">
+                    <img src="img/slider3.png" alt="PPC">
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="heading">
@@ -99,18 +97,18 @@ $page_id="contact";
                         </div>
                         <p class="heading-text">We develop Mobile-based custom applications for businesses needing to streamline their daily business operations.
 						Our developers empower our clients by simplifying the application development process and product.</p>
+
                     </div>
 
                     <ul class="list list--secondary">
                         <li>
                             <i class="seoicon-check"></i>
-                          <a href="#">Mobile apps are designed with consideration for the demands and constraints of the devices and also to take advantage of any specialized capabilities they have.</a>
-
+                             <a href="#">Mobile apps are designed with consideration for the demands and constraints of the devices and also to take advantage of any specialized capabilities they have.</a>
                         </li>
                         <li>
                             <i class="seoicon-check"></i>
-                          <a href="#">Through blog posts, app reviews, and earned media coverage, you re able to tell potential customers why your app is so great by describing unique features or helpful functions.</a>
-
+                           <a href="#">Through blog posts, app reviews, and earned media coverage, you re able to tell potential customers why your app is so great by describing unique features or helpful functions.</a>
+                           
                         </li>
                     </ul>
                 </div>
@@ -121,9 +119,82 @@ $page_id="contact";
 
 <!-- Info Box -->
 
+<div class="container pt100 pb100">
 
+    <div class="row mb60">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div class="info-box--standard">
+                <div class="info-box-image">
+                    <img src="img/info-box11.png" alt="image">
+                </div>
+                <div class="info-box-content">
+                    <h4 class="info-box-title text-t-none">Methodology</h4>
+                    <p class="text">Methodologies impose a disciplined process upon software development with the
+                     aim of making software development more predictable and more efficient. We do this by developing a 
+                    detailed process with a strong emphasis on planning inspired by our experiences and learnings in the past.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div class="info-box--standard">
+                <div class="info-box-image">
+                    <img src="img/info-box12.png" alt="image">
+                </div>
+                <div class="info-box-content">
+                    <h4 class="info-box-title text-t-none">Technology</h4>
+                    <p class="text">Sofs team has worked with and researched numerous technologies and methodologies. 
+                    As new technology enters the market, which is currently happening at a rapid pace, we continuously 
+                    gear up for this new technology.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div class="info-box--standard">
+                <div class="info-box-image">
+                    <img src="img/info-box13.png" alt="image">
+                </div>
+                <div class="info-box-content">
+                    <h4 class="info-box-title text-t-none">Quality</h4>
+                    <p class="text">Client may view the progress of their website as it is being developed. If during the 
+                    website creation process they will want to add something more that will cause no problems for us, we 
+                    ensure that it is taken care of. The job is not finished until a client reviews and approves the work done.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div class="info-box--standard">
+                <div class="info-box-image">
+                    <img src="img/info-box14.png" alt="image">
+                </div>
+                <div class="info-box-content">
+                    <h4 class="info-box-title text-t-none">Infrastructure</h4>
+                    <p class="text">Today web applications support most business initiatives, increasing the pressure on IT to deliver 
+                    web infrastructure that not only works, but enhances the quality of experience for end-users.Sofs ensures optimal
+                     web application performance and returning clients.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
 
 <?php include 'includes/footer.php';?>
+
+
+<!-- Footer -->
+
+
+
+
+<!-- End Footer -->
+
 
 <svg style="display:none;">
     <symbol id="arrow-left" viewBox="122.9 388.2 184.3 85">

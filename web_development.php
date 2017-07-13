@@ -119,70 +119,58 @@ $page_id="contact";
 
 <!-- Info Box -->
 
-<div class="container pt100 pb100">
+<div class="container-fluid">
+    <div class="row medium-padding120 bg-orange-color">
+        <div class="container">
+            <div class="row mb30">
+                <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
+                    <div class="heading align-center">
+                        <h4 class="h1 heading-title">Professional Tools for Your Business</h4>
+                        <div class="heading-line">
+                            <span class="short-line bg-yellow-color"></span>
+                            <span class="long-line bg-yellow-color"></span>
+                        </div>
+                        <p class="heading-text c-white">We design innovative and user-friendly web development for our customers.</p>
+                    </div>
 
-    <div class="row mb60">
-        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <div class="info-box--standard">
-                <div class="info-box-image">
-                    <img src="img/info-box11.png" alt="image">
                 </div>
-                <div class="info-box-content">
-                    <h4 class="info-box-title text-t-none">Methodology</h4>
-                    <p class="text">Methodologies impose a disciplined process upon software development with the
-                     aim of making software development more predictable and more efficient. We do this by developing a 
-                    detailed process with a strong emphasis on planning inspired by our experiences and learnings in the past.
-                    </p>
-                </div>
+
             </div>
-        </div>
-        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <div class="info-box--standard">
-                <div class="info-box-image">
-                    <img src="img/info-box12.png" alt="image">
+
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+                    <div class="info-box--standard">
+                        <div class="info-box-image">
+                            <img src="img/info-box23.png" alt="image">
+                        </div>
+                        <div class="info-box-content">
+                            <h5 class="info-box-title">Keyword Research</h5>
+                            <p class="text c-white">Keyword research is one of the most important, valuable, and high return activities in the search marketing field. Ranking for the right keywords can make or break your website.
+                        </p>
+                        </div>
+                    </div>
+
                 </div>
-                <div class="info-box-content">
-                    <h4 class="info-box-title text-t-none">Technology</h4>
-                    <p class="text">Sofs team has worked with and researched numerous technologies and methodologies. 
-                    As new technology enters the market, which is currently happening at a rapid pace, we continuously 
-                    gear up for this new technology.
-                    </p>
+
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+                    <div class="info-box--standard">
+                        <div class="info-box-image">
+                            <img src="img/info-box24.png" alt="image">
+                        </div>
+                        <div class="info-box-content">
+                            <h5 class="info-box-title">Awesome Team</h5>
+                            <p class="text c-white">A productive, functioning team can achieve a lot more than individual people working on their own. It is not always as easy as connecting some people together and working on objectives.
+                            </p>
+                        </div>
+                    </div>
+
                 </div>
+
             </div>
         </div>
     </div>
-
-    <div class="row">
-        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <div class="info-box--standard">
-                <div class="info-box-image">
-                    <img src="img/info-box13.png" alt="image">
-                </div>
-                <div class="info-box-content">
-                    <h4 class="info-box-title text-t-none">Quality</h4>
-                    <p class="text">Client may view the progress of their website as it is being developed. If during the 
-                    website creation process they will want to add something more that will cause no problems for us, we 
-                    ensure that it is taken care of. The job is not finished until a client reviews and approves the work done.
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <div class="info-box--standard">
-                <div class="info-box-image">
-                    <img src="img/info-box14.png" alt="image">
-                </div>
-                <div class="info-box-content">
-                    <h4 class="info-box-title text-t-none">Infrastructure</h4>
-                    <p class="text">Today web applications support most business initiatives, increasing the pressure on IT to deliver 
-                    web infrastructure that not only works, but enhances the quality of experience for end-users.Sofs ensures optimal
-                     web application performance and returning clients.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-
 </div>
 
 <?php include 'includes/footer.php';?>
