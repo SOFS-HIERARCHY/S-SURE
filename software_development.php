@@ -125,14 +125,11 @@ $page_id="contact";
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
             <div class="info-box--standard">
                 <div class="info-box-image">
-                    <img src="img/info-box11.png" alt="image">
+                    <img src="img/features5.png" alt="image">
                 </div>
                 <div class="info-box-content">
-                    <h4 class="info-box-title text-t-none">Methodology</h4>
-                    <p class="text">Methodologies impose a disciplined process upon software development with the
-                     aim of making software development more predictable and more efficient. We do this by developing a 
-                    detailed process with a strong emphasis on planning inspired by our experiences and learnings in the past.
-                    </p>
+                    <h4 class="info-box-title text-t-none">Custom Development</h4>
+                    <p class="text">At SOFS, we don't just create custom software, we build solutions to your business problems. We've got a decade-long success record and the trust of the world's biggest brands.</p>
                 </div>
             </div>
         </div>
@@ -142,10 +139,8 @@ $page_id="contact";
                     <img src="img/info-box9.png" alt="image">
                 </div>
                 <div class="info-box-content">
-                    <h4 class="info-box-title text-t-none">Technology</h4>
-                    <p class="text">Sofs team has worked with and researched numerous technologies and methodologies. 
-                    As new technology enters the market, which is currently happening at a rapid pace, we continuously 
-                    gear up for this new technology.
+                    <h4 class="info-box-title text-t-none">Software Product Development</h4>
+                    <p class="text">A successful commercial product must meet diverse user needs and is different from typical software projects. Tap into our domain and technology expertise to develop a custom product that will wow your audience.
                     </p>
                 </div>
             </div>
@@ -159,11 +154,8 @@ $page_id="contact";
                     <img src="img/info-box17.png" alt="image">
                 </div>
                 <div class="info-box-content">
-                    <h4 class="info-box-title text-t-none">Quality</h4>
-                    <p class="text">Client may view the progress of their website as it is being developed. If during the 
-                    website creation process they will want to add something more that will cause no problems for us, we 
-                    ensure that it is taken care of. The job is not finished until a client reviews and approves the work done.
-                    </p>
+                    <h4 class="info-box-title text-t-none">UX Design & Prototyping</h4>
+                    <p class="text">User experience is a critical factor that can make or break your project. Our UX design and prototyping experts will make sure the resulting UI is highly usable across various devices and platforms.</p>
                 </div>
             </div>
         </div>
@@ -173,10 +165,8 @@ $page_id="contact";
                     <img src="img/info-box14.png" alt="image">
                 </div>
                 <div class="info-box-content">
-                    <h4 class="info-box-title text-t-none">Infrastructure</h4>
-                    <p class="text">Today software development support most business initiatives, increasing the pressure on IT to deliver 
-                    web infrastructure that not only works, but enhances the quality of experience for end-users.Sofs ensures optimal
-                     web application performance and returning clients.
+                    <h4 class="info-box-title text-t-none">Enterprise Application Integration</h4>
+                    <p class="text">Seamless integration of disparate software systems can be challenging. Use our EAI services to improve real-time information access, streamline business processes, and facilitate system maintenance.
                     </p>
                 </div>
             </div>

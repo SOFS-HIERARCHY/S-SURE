@@ -7,7 +7,7 @@ $page_id="contact";
 <head lang="en">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <title>SOFS Technologies - Mobile App</title>
+    <title>SOFS Technologies - SEO & Digital Marketing</title>
 
     <link rel="stylesheet" type="text/css" href="css/fonts.css">
     <link rel="stylesheet" type="text/css" href="css/crumina-fonts.css">
@@ -41,7 +41,7 @@ $page_id="contact";
 
 <div class="stunning-header stunning-header-bg-green">
     <div class="stunning-header-content">
-        <h1 class="stunning-header-title">Mobile App Development</h1>
+        <h1 class="stunning-header-title">Search Engine Optimisation & Digital Marketing</h1>
         <ul class="breadcrumbs">
             <li class="breadcrumbs-item">
                 <a href="home.php">Home</a>
@@ -50,14 +50,12 @@ $page_id="contact";
                 <i class="seoicon-right-arrow"></i>
             </li>
             <li class="breadcrumbs-item active">
-                <span href="#">Mobile App Development</span>
+                <span href="#">Search Engine Optimisation & Digital Marketing</span>
                 <i class="seoicon-right-arrow"></i>
             </li>
         </ul>
     </div>
 </div>
-
-
 
 <!-- End Stunning header -->
 
@@ -88,31 +86,21 @@ $page_id="contact";
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <img src="img/ppc.png" alt="PPC">
+                    <img src="img/seo.png" alt="PPC">
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="heading">
-                        <h4 class="h1 heading-title">Mobile App Development</h4>
+                        <h4 class="h1 heading-title">Search Engine Optimisation & Digital Marketing</h4>
                         <div class="heading-line">
                             <span class="short-line"></span>
                             <span class="long-line"></span>
                         </div>
-                        <p class="heading-text">We develop Mobile-based custom applications for businesses needing to streamline their daily business operations.
-						Our developers empower our clients by simplifying the application development process and product.</p>
+                        
+                        <p class="heading-text">We know what Google, Yahoo and Bing like, and we make sure your website is made visible to the search engines through best practise SEO tactics. We also make sure that your marketing message isn't compromised in our SEO strategy. There's no point driving traffic to your website if it reads like a list of keywords. The integrity of your website is important to us. We are clever in how we get SEO results, and quick about it too.</p>
                     </div>
 
-                    <ul class="list list--secondary">
-                        <li>
-                            <i class="seoicon-check"></i>
-                          <a href="#">Mobile apps are designed with consideration for the demands and constraints of the devices and also to take advantage of any specialized capabilities they have.</a>
-
-                        </li>
-                        <li>
-                            <i class="seoicon-check"></i>
-                          <a href="#">Through blog posts, app reviews, and earned media coverage, you re able to tell potential customers why your app is so great by describing unique features or helpful functions.</a>
-
-                        </li>
-                    </ul>
+                    
+                    
                 </div>
             </div>
         </div>
@@ -120,38 +108,33 @@ $page_id="contact";
 </div>
 
 <div class="container-fluid">
-    <div class="row medium-padding120 bg-border-color">
+    <div class="row medium-padding120 bg-orange-color">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-                    <div class="heading mb30">
-                        <h4 class="h1 heading-title">Our App Development Process</h4>
+            <div class="row mb30">
+                <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
+                    <div class="heading align-center">
+                        <h4 class="h1 heading-title">Search Engine Optimization(SEO)</h4>
                         <div class="heading-line">
-                            <span class="short-line"></span>
-                            <span class="long-line"></span>
+                            <span class="short-line bg-yellow-color"></span>
+                            <span class="long-line bg-yellow-color"></span>
                         </div>
-
-                        <h5 class="text c-grey">We think fast, and code even faster. Our mobile developers work in agile sprints. We build on any language (native or cross-platform), with any integrations/customizations you want.
-                        </h5>
-
+                       
                     </div>
-                  
+
                 </div>
 
-                <div class="col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-12 col-xs-12">
-                    <img src="img/social-photo1.png" alt="social">
-                </div>
             </div>
+
             <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
                     <div class="info-box--standard">
                         <div class="info-box-image">
-                            <img src="img/design.png" alt="image">
+                            <img src="img/features5.png" alt="image">
                         </div>
                         <div class="info-box-content">
-                            <h5 class="info-box-title">Design</h5>
-                            <p class="text c-black">Your preferences and our creativity helps create the perfect design that is implemented using our expert skills.</p>                            
+                            <h5 class="info-box-title">Search Engine Optimization (SEO)</h5>
+                            <p class="text c-white">Since there is a lot of competition and everyone wishes to be on the top. So, Search Engine Optimization is the only way to rise above the competitors and to enhance the presence of your business online.</p>                            
                             </div>
                     </div>
 
@@ -161,11 +144,11 @@ $page_id="contact";
 
                     <div class="info-box--standard">
                         <div class="info-box-image">
-                            <img src="img/development.png" alt="image">
+                            <img src="img/info-box15.png" alt="image">
                         </div>
                         <div class="info-box-content">
-                            <h5 class="info-box-title">Development</h5>
-                            <p class="text c-black">Our Progressive, Measurable and Timely development begins as soon as the design is approved.</p>
+                            <h5 class="info-box-title">Local SEO Services</h5>
+                            <p class="text c-white">If you are running your business locally and need to make local people in your area aware of your business, then avail our best local SEO package provided by our highly professional SEO experts.</p>
                               </div>
                     </div>
 
@@ -175,11 +158,11 @@ $page_id="contact";
 
                     <div class="info-box--standard">
                         <div class="info-box-image">
-                            <img src="img/quality.png" alt="image">
+                            <img src="img/info-box17.png" alt="image">
                         </div>
                         <div class="info-box-content">
-                            <h5 class="info-box-title">Quality Assurance</h5>
-                            <p class="text c-black">We maintain the quality standards by ensuring that each App is checked for specifications, client preferences and requirements as well as functionality.
+                            <h5 class="info-box-title">SEO for eCommerce</h5>
+                            <p class="text c-white">Since the India is transforming into digital India, the demand for E-commerce business is rising day by day. Every E-commerce business owner wants their website on the top of the search engine result.
                             </p>
                             </div>
                     </div>
@@ -189,17 +172,116 @@ $page_id="contact";
 
                     <div class="info-box--standard">
                         <div class="info-box-image">
-                            <img src="img/deployment.png" alt="image">
+                            <img src="img/features3.png" alt="image">
                         </div>
                         <div class="info-box-content">
-                            <h5 class="info-box-title">Deployment</h5>
-                            <p class="text c-black">Our creation takes wings only once you approve the final build and is available on iTunes once Apple approves it.
+                            <h5 class="info-box-title">SEO Marketing Company</h5>
+                            <p class="text c-white">Search engine marketing revolves around enhancing your business by making your website visible on the Search engine result page. If someone searches on the search engine.
                             </p>
                             </div>
                     </div>
 
                 </div>
-             	             
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+                    <div class="info-box--standard">
+                        <div class="info-box-image">
+                            <img src="img/info-box10.png" alt="image">
+                        </div>
+                        <div class="info-box-content">
+                            <h5 class="info-box-title">Certified SEO Agency</h5>
+                            <p class="text c-white">We are a certified SEO agency that is certified by popular search engines like Google and Bing. We have a team of SEO professionals who are well versed with the latest SEO techniques and processes that make us the top SEO agency in India.
+                            </p>
+                            </div>
+                    </div>
+                </div>
+			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+                    <div class="info-box--standard">
+                        <div class="info-box-image">
+                            <img src="img/info-box1.png" alt="image">
+                        </div>
+                        <div class="info-box-content">
+                            <h5 class="info-box-title">SEO Management</h5>
+                            <p class="text c-white">To make your business reputed and successful, SEO management plays a very crucial role. If you are looking for the best SEO consultant in India, then we are here to support you by providing the most efficient SEO services in India.
+                            </p>
+                            </div>
+                    </div>
+
+                </div>
+		              
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container-fluid">
+    <div class="row medium-padding120 bg-border-color">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+                    <div class="heading mb30">
+                        <h4 class="h1 heading-title">We work with your business in the following ways:</h4>
+                        <div class="heading-line">
+                            <span class="short-line"></span>
+                            <span class="long-line"></span>
+                        </div>
+
+                        <h5 class="text c-grey">We believe that the work we do must have a real impact in the online world as well as in the conventional marketplace. Be it Digital Strategy and Marketing, or the Internet of Things, we blend creativity and technology to provide the best possible outcomes to take your business forward.
+                        </h5>
+
+                    </div>
+                  
+                </div>
+
+                <div class="col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-12 col-xs-12">
+                    <img src="img/digital.png" alt="social">
+                </div>
+            </div>
+            <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+
+                    <div class="info-box--standard">
+                        <div class="info-box-image">
+                            <img src="img/research1.png" alt="image">
+                        </div>
+                        <div class="info-box-content">
+                            <h5 class="info-box-title">Digital Strategy and Research</h5>
+                            <p class="text c-black">Development of a full digital marketing strategy and research into what will work for you, and what won't.
+                            </p>
+                              </div>
+                    </div>
+
+                </div>
+            
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+
+                    <div class="info-box--standard">
+                        <div class="info-box-image">
+                            <img src="img/planning.png" alt="image">
+                        </div>
+                        <div class="info-box-content">
+                            <h5 class="info-box-title">Digital Strategy Planning</h5>
+                            <p class="text c-black">Once we know how to move forward, we will work with you to develop an action plan for 3 to 12 months.</p>
+                              </div>
+                    </div>
+
+                </div>
+
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+
+                    <div class="info-box--standard">
+                        <div class="info-box-image">
+                            <img src="img/workshop.png" alt="image">
+                        </div>
+                        <div class="info-box-content">
+                            <h5 class="info-box-title">Digital Workshops</h5>
+                            <p class="text c-black">We love to educate our clients. Our digital workshop sessions can be used to gain buy in from the company, or we could work with a select few on LinkedIn training from a sales perspective.
+                            </p>
+                            </div>
+                    </div>
+                </div>
             </div>
             
         </div>
@@ -207,14 +289,23 @@ $page_id="contact";
         
 </div>
 
-
-
-
 <!-- Info Box -->
 
 
+<!-- Skills -->
+
+<div class="container-fluid">
 
 <?php include 'includes/footer.php';?>
+
+
+<!-- Footer -->
+
+
+
+
+<!-- End Footer -->
+
 
 <svg style="display:none;">
     <symbol id="arrow-left" viewBox="122.9 388.2 184.3 85">

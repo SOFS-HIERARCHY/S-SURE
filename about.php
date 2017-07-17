@@ -41,14 +41,14 @@
 
 <div class="stunning-header stunning-header-bg-lightblue">
     <div class="stunning-header-content">
-        <h1 class="stunning-header-title">About Our Agency</h1>
+        <h1 class="stunning-header-title">About Us</h1>
         <ul class="breadcrumbs">
             <li class="breadcrumbs-item">
                 <a href="home.php">Home</a>
                 <i class="seoicon-right-arrow"></i>
             </li>
             <li class="breadcrumbs-item active">
-                <span href="#">About Our Agency</span>
+                <span href="#">About Us</span>
                 <i class="seoicon-right-arrow"></i>
             </li>
         </ul>
@@ -130,25 +130,7 @@
                             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                                 <div class="heading">
                                     <h4 class="h1 heading-title c-white mb30">We Work for Your Profit</h4>
-                                    <p class="c-white">SOFS, a new emerging software development company providing software solutions that partners with its clients to simplify, strengthen and transform their businesses by implementing innovative ideas.
-                                    </p>
-                                </div>
-                               </div>
-
-                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                                <div class="slider-profit-thumb">
-                                    <img src="img/profit.png" alt="profit">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="slider-profit swiper-slide">
-                        <div class="row medium-padding120">
-                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                                <div class="heading">
-                                    <h4 class="h1 heading-title c-white mb30">We Work for Your Profit</h4>
-                                    <p class="c-white">consumer software applications are designed to run in uncontrolled user environment, thorough testing becomes a critical part of the product development lifecycle.
+                                    <p class="c-white">Our company and functional experts can help you reimagine your business processes to drive efficiency, support new capabilities and power growth. Connect us and gain profit.
                                     </p>
                                 </div>
                             </div>
@@ -165,11 +147,11 @@
                         <div class="row medium-padding120">
                             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                                 <div class="heading">
-                                    <h4 class="h1 heading-title c-white mb30">We Work for Your Profit</h4>
-                                    <p class="c-white">Companies must conduct thorough research on appropriate technologies, platforms and features before committing any to large financial outlays.
+                                    <h4 class="h1 heading-title c-white mb30">Our Mission</h4>
+                                    <p class="c-white">SOFS provides exciting, game-changing services to clients around the globe. We believe real innovation from implementing relevant high tech solutions to actual business problems.
                                     </p>
                                 </div>
-                                </div>
+                            </div>
 
                             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                                 <div class="slider-profit-thumb">
@@ -183,11 +165,29 @@
                         <div class="row medium-padding120">
                             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                                 <div class="heading">
-                                    <h4 class="h1 heading-title c-white mb30">We Work for Your Profit</h4>
-                                    <p class="c-white">We hope to earn your trust and confidence through positive attitude, excitement for our work and commitment to a long-term partnership. 
+                                    <h4 class="h1 heading-title c-white mb30">Quality Control</h4>
+                                    <p class="c-white">Our team must follow an extremely low tolerance for defects, as any problems will impact not only current customers, but also the potential for future growth.
                                     </p>
                                 </div>
-                           </div>
+                            </div>
+
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                <div class="slider-profit-thumb">
+                                    <img src="img/profit.png" alt="profit">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slider-profit swiper-slide">
+                        <div class="row medium-padding120">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                <div class="heading">
+                                    <h4 class="h1 heading-title c-white mb30">Cost Awareness</h4>
+                                    <p class="c-white">In today's competitive global economy, effective executives carefully allocate every penny. Companies conduct thorough research on appropriate technologies, platforms and features before committing any to large financial outlays.
+                                    </p>
+                                </div>
+                            </div>
 
                             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                                 <div class="slider-profit-thumb">

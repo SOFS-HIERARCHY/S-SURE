@@ -14,11 +14,11 @@
             </div>
 
             <div class="logo">
-                <a href="index-2.html" class="full-block-link"></a>
+                <a href="home.php" class="full-block-link"></a>
                 <img src="img/logo.png" alt="Seosight">
             </div>
 
-            <p class="text">SOFS offers your company a professional andexperienced partner. The top priority at SOFS is customer
+            <p class="text">SOFS offers your company a professional and experienced partner. The top priority at SOFS is customer
 service. we are proud to have been providing SoftwareDevelopment Outsourcing and IT Consulting using best practices.
             </p>
 
@@ -57,8 +57,7 @@ service. we are proud to have been providing SoftwareDevelopment Outsourcing and
         <div class="widget contacts">
 
             <h4 class="contacts-title">Get In Touch</h4>
-            <p class="contacts-text">SOFS Technology powers our clients to achieve high performance. We combine business and industry insights with innovative technology to drive growth for your business.
-            </p>
+            <p class="contacts-text">Don't hesitate to send us your request and our consultants will get back to discuss how we can help you best.</p>
 
             <div class="contacts-item">
                 <img src="img/contact4.png" alt="phone">

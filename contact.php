@@ -49,14 +49,14 @@ $page_id="contact";
 
 <div class="stunning-header stunning-header-bg-blue">
     <div class="stunning-header-content">
-        <h1 class="stunning-header-title">Contact Information</h1>
+        <h1 class="stunning-header-title">Contact Us</h1>
         <ul class="breadcrumbs">
             <li class="breadcrumbs-item">
                 <a href="home.php">Home</a>
                 <i class="seoicon-right-arrow"></i>
             </li>
             <li class="breadcrumbs-item active">
-                <span href="#">Contact Information</span>
+                <span href="#">Contact Us</span>
                 <i class="seoicon-right-arrow"></i>
             </li>
         </ul>
@@ -96,8 +96,7 @@ $page_id="contact";
                     <span class="short-line"></span>
                     <span class="long-line"></span>
                 </div>
-                <p class="heading-text">At SOFS, we believe that those who challenge the status quo today will do remarkable things tomorrow. If you're as passionate about the possibilities as we are, please contact us.Thank you for your interest in our services. We are always pleasure to fulfill your business needs.
-                </p>
+                <p class="heading-text">Don't hesitate to send us your request and our consultants will get back to discuss how we can help you best. </p>
             </div>
         </div>
     </div>

@@ -50,7 +50,7 @@
                                 <div class="col-lg-6 table-cell">
                                     <div class="slider-content">
 
-                                        <h3 class="h1 slider-content-title c-dark" data-swiper-parallax="-100">Web Development & SEO
+                                        <h3 class="h1 slider-content-title c-dark" data-swiper-parallax="-100">Web Development
                                         
                                         </h3>
 
@@ -192,14 +192,14 @@
                                 <div class="col-lg-6 table-cell">
                                     <div class="slider-content">
 
-                                        <h3 class="h1 slider-content-title c-dark" data-swiper-parallax="-100">Data Processing & Training
+                                        <h3 class="h1 slider-content-title c-dark" data-swiper-parallax="-100">Search Engine Optimisation & Digital Marketing
                                         </h3>
 
-                                        <h5 class="slider-content-text" data-swiper-parallax="-200">Our data processing system has the capability to naturally identify and classify documents and data then to learn new allocation or classifications and eradication / extraction methods.
+                                        <h5 class="slider-content-text" data-swiper-parallax="-200">The heavy focus SOFS gives to goals is what separates us from other online marketing agencies. We aim to develop firm goals for all our clients such as enquiries, transactions or downloads.
                                         </h5>
                                         <div class="main-slider-btn-wrap" data-swiper-parallax="-300">
 
-                                            <a href="data_processing.php"
+                                            <a href="seo-digital.php"
                                                class="btn btn-medium btn--dark btn-hover-shadow">
                                                 <span class="text">learn more</span>
                                                 <span class="semicircle"></span>
@@ -212,7 +212,7 @@
 
                                 <div class="col-lg-6 table-cell">
                                     <div class="slider-thumb" data-swiper-parallax="-300" data-swiper-parallax-duration="500">
-                                        <img src="img/slider7.png" alt="slider">
+                                        <img src="img/seo.png" alt="slider">
                                     </div>
                                 </div>
 
@@ -237,7 +237,7 @@
                     <a href="#" class="slides-item bg-border-color main-slider-bg-light">
                         <div class="content">
                             <div class="text-wrap">
-                                <h4 class="slides-title">Web Development & SEO</h4>
+                                <h4 class="slides-title">Web Development</h4>
                             </div>
                             <div class="slides-number">01</div>
                         </div>
@@ -273,7 +273,7 @@
                     <a href="#" class="slides-item bg-green-color">
                         <div class="content">
                             <div class="text-wrap">
-                                <h4 class="slides-title">Data Processing & Training</h4>
+                                <h4 class="slides-title">Search Engine Optimisation & Digital Marketing</h4>
                             </div>
                             <div class="slides-number">05</div>
                         </div>
@@ -451,94 +451,38 @@
     </div>
 </div>
 
-<!-- ... End Offers -->
-
-<!-- Background-mountains -->
-
 <div class="container-fluid">
-    <div class="row">
-        <div class="background-mountains medium-padding120 scrollme">
-
-            <div class="images">
-                <img src="img/mountain1.png" alt="mountain">
-                <img src="img/mountain2.png" alt="mountain">
-            </div>
-
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
-                        <div class="heading align-center">
-                            <h4 class="h1 heading-title">Affordable It Services Packages</h4>
-                            <div class="heading-line">
-                                <span class="short-line"></span>
-                                <span class="long-line"></span>
-                            </div>
-                            <p class="heading-text">Sofs have a Innovative,Quality and Professional Designs,More Responsive Adorable Products.	
-                            </p>
+    <div class="row medium-padding120">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+                    <div class="heading">
+                        <h4 class="h1 heading-title">Our Product</h4>
+                        <div class="heading-line">
+                            <span class="short-line bg-yellow-color"></span>
+                            <span class="long-line bg-yellow-color"></span>
                         </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-                        <div class="info-box--standard-centered">
-                            <div class="info-box-image">
-                                <img src="img/info-box7.png" alt="image">
-                            </div>
-                            <div class="info-box-content">
-                                <h4 class="info-box-title">Objective</h4>
-                                <p class="text">Improve customer satisfaction through better service.
-                                </p>
-                            </div>
-                        </div>
+                        <p class="heading-text c-black">If you are interested in our services, get in touch.
+                        </p>
                     </div>
 
-                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-                        <div class="info-box--standard-centered">
-                            <div class="info-box-image">
-                                <img src="img/info-box8.png" alt="image">
-                            </div>
-                            <div class="info-box-content">
-                                <h4 class="info-box-title">Strategy</h4>
-                                <p class="text">Our valuable stratergy is brings us to a whole new level of value to the marketplace.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-                        <div class="info-box--standard-centered">
-                            <div class="info-box-image">
-                                <img src="img/info-box9.png" alt="image">
-                            </div>
-                            <div class="info-box-content">
-                                <h4 class="info-box-title">Technology</h4>
-                                <p class="text">We made Innovative products to works with updated technologies.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-                        <div class="info-box--standard-centered">
-                            <div class="info-box-image">
-                                <img src="img/info-box10.png" alt="image">
-                            </div>
-                            <div class="info-box-content">
-                                <h4 class="info-box-title">Analytics</h4>
-                                <p class="text">Sofs analytical solutions will help you process,analyze,filter & mine massive volumes of business data. 
-                                </p>
-                            </div>
-                        </div>
+                    <div class="btn btn-medium btn--dark btn-hover-shadow mb30">
+                        <span class="text">Get in Touch</span>
+                        <span class="semicircle"></span>
                     </div>
                 </div>
 
-                
+                <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
+                    <img src="img/copy.png" class="shadow-image" alt="analysis">
+                </div>
             </div>
-
-
         </div>
     </div>
 </div>
+
+<!-- ... End Offers -->
+
+<!-- Background-mountains -->
 
 <!-- End Background-mountains -->
 
@@ -728,7 +672,7 @@
                                         <div class="testimonial-content">
                                             <p class="text" data-swiper-parallax="-200">We are glad that we selected SOFS as a development partner for our product. A lot of success that we have is due to your timely execution and professional handling of the development. Thanks you for your help in giving shape to our dreams.
                                             </p>
-                                            <a href="#" class="author" data-swiper-parallax="-150">Balaji</a>
+                                            <a href="#" class="author" data-swiper-parallax="-150">Saravanan</a>
                                             <a href="#" class="company" data-swiper-parallax="-150">Fresh Farm Supermarkets</a>
 
                                         </div>
@@ -740,7 +684,7 @@
                                         <div class="testimonial-content">
                                             <p class="text" data-swiper-parallax="-200">We are impressed with the quality you deliver. The ethical and impeccable conduct coupled with the project management approach you have makes you best in several Web deployment experience. Thanks for your unlimited services.
                                             </p>
-                                            <a href="#" class="author" data-swiper-parallax="-150">Jonathan Simpson</a>
+                                            <a href="#" class="author" data-swiper-parallax="-150">Balaji</a>
                                             <a href="#" class="company" data-swiper-parallax="-150">Ajan Tours & Travels</a>
 
                                         </div>
@@ -752,8 +696,8 @@
                                         <div class="testimonial-content">
                                             <p class="text" data-swiper-parallax="-200">Working with SOFS is a pleasure. Their communication is outstanding! Job was done about in time, Thank you for also fixing some other issues along the way without a big fuss. Good knowledge of programming. Skilled, kind, trustworthy!
                                             </p>
-                                            <a href="#" class="author" data-swiper-parallax="-150">Jonathan Simpson</a>
-                                            <a href="#" class="company" data-swiper-parallax="-150">Team Terasvin</a>
+                                            <a href="#" class="author" data-swiper-parallax="-150">ilachezhian</a>
+                                            <a href="#" class="company" data-swiper-parallax="-150">Empreus solutions</a>
 
                                         </div>
                                         <div class="avatar" data-swiper-parallax="-50">
@@ -800,9 +744,7 @@
                                 <span class="short-line"></span>
                                 <span class="long-line"></span>
                             </div>
-                            <p class="heading-text">We have separate teams for content development, design, coding, testing and online marketing.
-                            </p>
-                        </div>
+                            </div>
                     </div>
                 </div>
 
@@ -836,7 +778,7 @@
                                         Responsive
                                     </li>
                                 </ul>
-                                <h4 class="rate">$5000</h4>
+                                <h4 class="rate">Rs. 5000</h4>
                                 
                                 <img src="img/pricing-dots.png" class="dots" alt="dots">
                             </div>
@@ -870,7 +812,7 @@
                                         Responsive
                                     </li>
                                 </ul>
-                                <h4 class="rate">$10,000</h4>
+                                <h4 class="rate"> Rs. 10,000</h4>
                                 
 
                                 <img src="img/pricing-dots.png" class="dots" alt="dots">
@@ -904,8 +846,8 @@
                                         Responsive
                                     </li>
                                 </ul>
-                                <h4 class="rate">$20,000</h4>
-                                
+                                <h4 class="rate">Rs. 20,000</h4>
+                                                               
                                 <img src="img/pricing-dots.png" class="dots" alt="dots">
                             </div>
                         </div>

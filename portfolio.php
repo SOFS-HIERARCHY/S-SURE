@@ -294,6 +294,17 @@ $page_id="portfolio";
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 sorting-item website">
+                    <div class="case-item align-center mb60">
+                        <div class="case-item__thumb mouseover lightbox shadow animation-disabled">
+                            <img src="img/case18.png" alt="our case">
+                        </div>
+                        <h6 class="case-item__title">Madaran</h6>
+                        <div class="case-item__cat">
+                            <a href="#">Web site</a>
+                        </div>
+                    </div>
+                </div>
             </div>
 
         </div>

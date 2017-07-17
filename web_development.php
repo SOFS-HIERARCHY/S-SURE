@@ -41,7 +41,7 @@ $page_id="contact";
 
 <div class="stunning-header stunning-header-bg-green">
     <div class="stunning-header-content">
-        <h1 class="stunning-header-title">Web Development & SEO</h1>
+        <h1 class="stunning-header-title">Web Development</h1>
         <ul class="breadcrumbs">
             <li class="breadcrumbs-item">
                 <a href="home.php">Home</a>
@@ -50,7 +50,7 @@ $page_id="contact";
                 <i class="seoicon-right-arrow"></i>
             </li>
             <li class="breadcrumbs-item active">
-                <span href="#">Web Development & SEO</span>
+                <span href="#">Web Development</span>
                 <i class="seoicon-right-arrow"></i>
             </li>
         </ul>
@@ -90,7 +90,7 @@ $page_id="contact";
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="heading">
-                        <h4 class="h1 heading-title">Web Development & SEO</h4>
+                        <h4 class="h1 heading-title">Web Development</h4>
                         <div class="heading-line">
                             <span class="short-line"></span>
                             <span class="long-line"></span>
@@ -119,59 +119,6 @@ $page_id="contact";
 
 <!-- Info Box -->
 
-<div class="container-fluid">
-    <div class="row medium-padding120 bg-orange-color">
-        <div class="container">
-            <div class="row mb30">
-                <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
-                    <div class="heading align-center">
-                        <h4 class="h1 heading-title">Professional Tools for Your Business</h4>
-                        <div class="heading-line">
-                            <span class="short-line bg-yellow-color"></span>
-                            <span class="long-line bg-yellow-color"></span>
-                        </div>
-                        <p class="heading-text c-white">We design innovative and user-friendly web development for our customers.</p>
-                    </div>
-
-                </div>
-
-            </div>
-
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-
-                    <div class="info-box--standard">
-                        <div class="info-box-image">
-                            <img src="img/info-box23.png" alt="image">
-                        </div>
-                        <div class="info-box-content">
-                            <h5 class="info-box-title">Keyword Research</h5>
-                            <p class="text c-white">Keyword research is one of the most important, valuable, and high return activities in the search marketing field. Ranking for the right keywords can make or break your website.
-                        </p>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-
-                    <div class="info-box--standard">
-                        <div class="info-box-image">
-                            <img src="img/info-box24.png" alt="image">
-                        </div>
-                        <div class="info-box-content">
-                            <h5 class="info-box-title">Awesome Team</h5>
-                            <p class="text c-white">A productive, functioning team can achieve a lot more than individual people working on their own. It is not always as easy as connecting some people together and working on objectives.
-                            </p>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-        </div>
-    </div>
-</div>
 
 <?php include 'includes/footer.php';?>
 

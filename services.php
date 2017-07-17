@@ -107,7 +107,7 @@
                     <img src="img/services2.png" alt="service">
                 </div>
                 <div class="servises-item__content">
-                    <h4 class="servises-title">Web Development & SEO</h4>
+                    <h4 class="servises-title">Web Development</h4>
                     <p class="servises-text">We create outstanding web applications. We value practical solutions, beautiful and intelligent designs, clean code, good architecture, effective database management, W3C Validation and above all we are committed to the success of your company with SEO.
                     </p>
                 </div>
@@ -124,7 +124,7 @@
                 </div>
                 <div class="servises-item__content">
                     <h4 class="servises-title">Sotware Development</h4>
-                    <p class="servises-text">From smart customization of pre-developed platforms to full-cycle custom software development that matches your vision and our ERP Software practice helps the customers who require the benefits of a large scale Business Management Application.
+                    <p class="servises-text">From smart customization of pre-developed platforms to full-cycle custom software development that matches your vision and our ERP Software practice helps the customers who require the benefits of a large scale Business.
                     </p>
                 </div>
 
@@ -170,15 +170,15 @@
         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
             <div class="servises-item bg-green-color">
                 <div class="servises-item__thumb">
-                    <img src="img/services1.png" alt="service">
+                    <img src="img/seo.png" alt="service">
                 </div>
                 <div class="servises-item__content">
-                    <h4 class="servises-title">Data Processing & Training</h4>
-                    <p class="servises-text">Often, businesses don't realize this, but large volumes of unorganized data can slowly affect the normal functioning of their businesses. We at SOFS have the pleasure to get rid of them by our BPO & KPO services.
+                    <h4 class="servises-title">Search Engine Optimisation & Digital Marketing</h4>
+                    <p class="servises-text">The heavy focus SOFS gives to goals is what separates us from other online marketing agencies. We aim to develop firm goals for all our clients such as enquiries, transactions or downloads.
                     </p>
                 </div>
 
-                <a href="data_processing.php" class="read-more"><i class="seoicon-right-arrow"></i></a>
+                <a href="seo-digital.php" class="read-more"><i class="seoicon-right-arrow"></i></a>
 
             </div>
         </div>

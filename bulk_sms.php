@@ -141,96 +141,6 @@ $page_id="contact";
 <div class="container">
     <div class="row pt120 mb30">
 
-        <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
-            <div class="heading align-center">
-                <h4 class="heading-title h1">Unrivalled Levels of Service</h4>
-                <div class="heading-line">
-                    <span class="short-line"></span>
-                    <span class="long-line"></span>
-                </div>
-                <p class="heading-text">We believe it is fundamental to our success to ensure our clients receive the highest levels of quality and service.
-                </p>
-            </div>
-        </div>
-
-    </div>
-
-    <div class="row mb30">
-        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <div class="info-box--modern">
-                <div class="info-box-image">
-                    <img src="img/info-box25.png" alt="image">
-                </div>
-                <div class="info-box-content">
-                    <h5 class="info-box-title">The Best E-Marketing Strategy</h5>
-                    <p class="text">Join Hands with sofs to increase your customer-base, reach your target group effectively at a minimal cost. Save time and track your campaign from anywhere in the world.
-                    </p>
-                    <a href="#" class="read-more">Read More
-                        <i class="seoicon-right-arrow"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <div class="info-box--modern">
-                <div class="info-box-image">
-                    <img src="img/info-box26.png" alt="image">
-                </div>
-                <div class="info-box-content">
-                    <h5 class="info-box-title">Email Template Design</h5>
-                    <p class="text">each marketer putting the development of an effective email marketing strategy on the top of your agenda and to do list seems like a no-brainer.
-                    </p>
-
-                    <a href="#" class="read-more">Read More
-                        <i class="seoicon-right-arrow"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="row mb60">
-        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <div class="info-box--modern">
-                <div class="info-box-image">
-                    <img src="img/info-box27.png" alt="image">
-                </div>
-                <div class="info-box-content">
-                    <h5 class="info-box-title">Tracking & Reporting</h5>
-                    <p class="text">Real-time reports and live sales notifications makes taking charge of your affiliate programs that much easier!
-					In order to run a successful campaign, you need to know the results being produced. </p>
-                    <a href="#" class="read-more">Read More
-                        <i class="seoicon-right-arrow"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <div class="info-box--modern">
-                <div class="info-box-image">
-                    <img src="img/info-box28.png" alt="image">
-                </div>
-                <div class="info-box-content">
-                    <h5 class="info-box-title">E-Marketing
-                        Campaigns</h5>
-                    <p class="text">E-marketing campaigns are essential elements of any marketing strategy. They communicate and build relationships with prospects, gather important data, and help boost marketing ROI. 
-                    </p>
-
-                    <a href="#" class="read-more">Read More
-                        <i class="seoicon-right-arrow"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-</div>
-<div class="container">
-    <div class="row pt120 mb30">
-
         <div class="col-lg-12">
             <div class="heading align-center">
                 <h4 class="h1 heading-title">One-Shot-OTP</h4>
@@ -245,7 +155,7 @@ $page_id="contact";
     </div>
     
 <div class="container-fluid">
-    <div class="row medium-padding120 bg-border-color">
+    <div class="row medium-padding80 bg-border-color">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-sx-12">
@@ -285,7 +195,7 @@ $page_id="contact";
         </div>
     </div>
 </div>
-</div>
+</div></div>
 <!-- Info Box -->
 
 <?php include 'includes/footer.php';?>

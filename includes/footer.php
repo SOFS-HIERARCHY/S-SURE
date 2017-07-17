@@ -87,62 +87,62 @@
                         <ul class="list list--primary">
                             <li>
                                 <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                <a href="#">Web Development</a>
+                                <a>Web Development</a>
                             </li>
                             <li>
                                 <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                <a href="#">SEO Services</a>
+                                <a>SEO Services</a>
                             </li>
                             <li>
                                 <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                <a href="#">Social Media</a>
+                                <a>Social Media</a>
                             </li>
                             <li>
                                 <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                <a href="#">Custom Software</a>
+                                <a>Custom Software</a>
                             </li>
                             <li>
                                 <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                <a href="#">Mobile Apps</a>
+                                <a>Mobile Apps</a>
                             </li>
                             <li>
                                 <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                <a href="#">ERP</a>
+                                <a>ERP</a>
                             </li>
                             <li>
                                 <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                <a href="#">XML Conversion</a>
+                                <a>XML Conversion</a>
                             </li>
                         </ul>
 
                         <ul class="list list--primary">
                             <li>
                                 <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                <a href="#">EPUB Conversion</a>
+                                <a>EPUB Conversion</a>
                             </li>
                             <li>
                                 <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                <a href="#">Typesetting</a>
+                                <a>Typesetting</a>
                             </li>
                             <li>
                                 <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                <a href="#">Data Capture</a>
+                                <a>Data Capture</a>
                             </li>
                             <li>
                                 <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                <a href="#">Data Conversion</a>
+                                <a>Data Conversion</a>
                             </li>
                             <li>
                                 <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                <a href="#">Creative/Multimeda</a>
+                                <a>Creative/Multimeda</a>
                             </li>
                             <li>
                                 <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                <a href="#">Bulk SMS</a>
+                                <a>Bulk SMS</a>
                             </li>
                             <li>
                                 <i class="fa fa-caret-right" aria-hidden="true"></i>
-                                <a href="#">Web Hosting</a>
+                                <a>Web Hosting</a>
                             </li>
                         </ul>
                     </div>
