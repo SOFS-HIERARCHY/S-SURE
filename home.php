@@ -358,15 +358,15 @@
 
                             <div class="contact-form">
 
-                                <form class="seo-score-form input-inline">
-
+                                <form role="home" id="home.php" action="home_actions.php" enctype="multipart/form-data" method="post" autocomplete="off">
+					<input type="hidden" name="mode" value="user">
                                     <div class="row">
 
                                         <div class="col-lg-8 no-padding col-md-12 col-xs-12 col-sm-12">
-                                            <input class="input-dark site" required="required" placeholder="Type in your Website URL you need">
+                                            <input class="input-dark site" required="required" id="url" placeholder="Type in your Website URL you need">
                                         </div>
                                         <div class="col-lg-4 no-padding col-md-12 col-xs-12 col-sm-12">
-                                            <input class="input-dark e-mail" required="required" placeholder="Your Email" type="email">
+                                            <input class="input-dark e-mail" required="required" id="mail_id" placeholder="Your Email" type="email">
                                         </div>
 
                                     </div>
@@ -514,7 +514,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="counter-item">
                             <div class="counter-numbers counter">
-                                <span data-speed="2000" data-refresh-interval="3" data-to="30" data-from="2">30+</span>
+                                <span data-speed="2000" data-refresh-interval="3" data-to="10" data-from="2">10+</span>
                                 <div class="units">+</div>
                             </div>
                             <span class="counter-title">Professionals</span>
@@ -528,7 +528,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="counter-item">
                             <div class="counter-numbers counter">
-                                <span data-speed="2000" data-refresh-interval="3" data-to="15" data-from="400">15+</span>
+                                <span data-speed="2000" data-refresh-interval="3" data-to="30" data-from="400">30+</span>
                                 <div class="units">+</div>
                             </div>
                             <span class="counter-title">Satisfied Clients</span>
@@ -630,8 +630,10 @@
                             </div>
                             <p class="heading-text c-white">Every client and project we work on is special to us.A selection of recent client projects.
                             </p>
-                        </div>
-                       
+                             </div>
+                        <!-- <div class="signature js-animate-icon">
+                        	<img src="img/psr.png" class="img-rounded" alt="Cinque Terre" width="200" height="60">
+                        </div> -->
                         <!-- <div class="signature js-animate-icon">
                             <svg xmlns="http://www.w3.org/2000/svg" width="200" height="60">
                                 <path fill="none" stroke="#2f2c2c" stroke-width="1.4"

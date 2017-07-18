@@ -94,10 +94,10 @@
                     </p>
                 </div>
 
-                <a href="21_seo_analysis.php" class="btn btn-medium btn--dark btn-hover-shadow">
+                <!-- <a href="21_seo_analysis.php" class="btn btn-medium btn--dark btn-hover-shadow">
                     <span class="text">Free SEO Analysis</span>
                     <span class="semicircle"></span>
-                </a>
+                </a> -->
             </div>
         </div>
 
