@@ -450,16 +450,15 @@
 
                                     <div class="testimonial-item testimonial-arrow mb30">
                                         <div class="testimonial-text">
-                                            We are glad that we selected SOFS as a development partner for our product. A lot of success that we have is due to your timely execution and professional handling of the development. Thanks you for your help in giving shape to our dreams.
-                                        </div>
-
+                                            Working with SOFS Technologies was a real pleasure, they were so confident with their efforts in upgrading and redesigning my site. I have been disappointed with past designers that's what originally brought me to them.
+										</div>
                                         <div class="author-info-wrap table">
                                             <div class="testimonial-img-author table-cell">
                                                 <img src="img/avatar.png" alt="author">
                                             </div>
                                             <div class="author-info table-cell">
-                                                <h6 class="author-name">Saravana Kumar</h6>
-                                                <div class="author-company c-primary">Fresh Farm Supermarkets</div>
+                                                <h6 class="author-name">Ilanchezhian</h6>
+                                                <div class="author-company c-primary">Anbu Illam</div>
                                             </div>
                                         </div>
 
@@ -474,16 +473,15 @@
 
                                     <div class="testimonial-item testimonial-arrow mb30">
                                         <div class="testimonial-text">
-                                            We are impressed with the quality you deliver. The ethical and impeccable conduct coupled with the project management approach you have makes you best in several Web deployment experience. Thanks for your unlimited services.
-                                        </div>
-
+                                            I was really convinced with the previous works they've done. And I really liked the design they've done for me too... I strongly recommend Sofs to anyone who's looking for quality stuffs."
+										</div>
                                         <div class="author-info-wrap table">
                                             <div class="testimonial-img-author table-cell">
                                                 <img src="img/avatar3.png" alt="author">
                                             </div>
                                             <div class="author-info table-cell">
-                                                <h6 class="author-name">Balaji</h6>
-                                                <div class="author-company c-primary">Ajan Tours & Travels</div>
+                                                <h6 class="author-name">Durai</h6>
+                                                <div class="author-company c-primary">Madaran Enterprise</div>
                                             </div>
                                         </div>
 
@@ -502,7 +500,7 @@
 
                                     <div class="testimonial-item testimonial-arrow mb30">
                                         <div class="testimonial-text">
-                                            Working with SOFS is a pleasure. Their communication is outstanding! Job was done about in time, Thank you for also fixing some other issues along the way without a big fuss. Good knowledge of programming. Skilled, kind, trustworthy!
+                                           I will definitely recommend Sofs to such clients who're looking for quality.Their expertism and knowledge of creating websites is highly commendable. Sofs is the name for quality!"
                                         </div>
 
                                         <div class="author-info-wrap table">
@@ -510,8 +508,8 @@
                                                 <img src="img/avatar.png" alt="author">
                                             </div>
                                             <div class="author-info table-cell">
-                                                <h6 class="author-name">Ilanchezhian</h6>
-                                                <div class="author-company c-primary">Empreus Solutions</div>
+                                                <h6 class="author-name">Gomathi</h6>
+                                                <div class="author-company c-primary">Anbu Illam</div>
                                             </div>
                                         </div>
 
@@ -526,8 +524,8 @@
 
                                     <div class="testimonial-item testimonial-arrow mb30">
                                         <div class="testimonial-text">
-                                            I've worked with SOFS on numerous projects and each time he's over delivered in terms of output and delivery time. I look forward to working with him on the next project.
-                                        </div>
+                                           "Thank you for the service you offered and delivered. Any delays were down to me not responding to you due to work pressures. I am more than happy with the excellent service and fantastic work you did for me."
+										</div>
 
                                         <div class="author-info-wrap table">
                                             <div class="testimonial-img-author table-cell">

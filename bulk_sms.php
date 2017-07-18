@@ -117,7 +117,7 @@ $page_id="contact";
 </div>
 
 <div class="container">
-    <div class="row pt120">
+    <div class="row pt120 mb30">
         <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
             <div class="heading align-center mb60">
                 <h4 class="h1 heading-title">The Best E-Marketing Strategy</h4>
@@ -134,9 +134,36 @@ $page_id="contact";
         <div class="col-lg-12 col-sm-12 col-xs-12">
             <img src="img/marketing.png" alt="marketing">
         </div>
+    </div>
+</div>
+
+
+<div class="container-fluid bg-green-color">
+  <div class="row pt120 mb30">
+    <div class="row medium-padding80">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 mb30">
+            <img src="img/shop4sms.png" alt="local-seo">
+        </div>
+
+        <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+            <div class="heading">
+
+                <h3 class="h3 heading-title">Our Product.</h3>
+
+                 <p class="heading-text c-white">More Information about Bulk Sms Marketing and ideas to enchance your bussiness throught bulk sms services. We are always ready to help you promote your product & services. The best part of our Bulk SMS services is Guaranteed 100% delivery with lifetime validity!
+                </p>
+
+            </div>
+
+            <a href="http://www.shop4sms.com/" class="btn btn-medium btn--light-green btn-hover-shadow">
+                <span class="text">Get access to</span>
+                <span class="semicircle"></span>
+            </a>
+        </div>
 
     </div>
 </div>
+  </div>
 
 <div class="container">
     <div class="row pt120 mb30">
@@ -152,11 +179,8 @@ $page_id="contact";
             </div>
         </div>
 
-    </div>
-    
-<div class="container-fluid">
-    <div class="row medium-padding80 bg-border-color">
-        <div class="container">
+  
+
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-sx-12">
                     <div class="info-box--standard">
@@ -192,10 +216,12 @@ $page_id="contact";
                     </div>
                 </div>
             </div>
+              </div>
         </div>
+       
     </div>
-</div>
-</div></div>
+   
+
 <!-- Info Box -->
 
 <?php include 'includes/footer.php';?>

@@ -451,43 +451,33 @@
     </div>
 </div>
 
-<div class="container-fluid">
+<div class="container">
     <div class="row medium-padding120">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-                    <div class="heading">
-                        <h4 class="h1 heading-title">Our Product</h4>
-                        <div class="heading-line">
-                            <span class="short-line bg-yellow-color"></span>
-                            <span class="long-line bg-yellow-color"></span>
-                        </div>
-                        <p class="heading-text c-black">If you are interested in our services, get in touch.
-                        </p>
-                    </div>
 
-                    <div class="btn btn-medium btn--dark btn-hover-shadow mb30">
-                        <span class="text">Get in Touch</span>
-                        <span class="semicircle"></span>
-                    </div>
-                </div>
-
-                <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-                    <img src="img/copy.png" class="shadow-image" alt="analysis">
-                </div>
-            </div>
+        <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 mb30">
+            <img src="img/shop4sms.png" alt="local-seo">
         </div>
+
+        <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+            <div class="heading">
+
+                <h3 class="h3 heading-title">Our Product.</h3>
+
+                <p>More Information about Bulk Sms Marketing and ideas to enchance your bussiness throught bulk sms services. We are always ready to help you promote your product & services. The best part of our Bulk SMS services is Guaranteed 100% delivery with lifetime validity!
+                </p>
+
+            </div>
+
+            <a href="http://www.shop4sms.com/" class="btn btn-medium btn--light-green btn-hover-shadow">
+                <span class="text">Get access to</span>
+                <span class="semicircle"></span>
+            </a>
+        </div>
+
     </div>
 </div>
 
-<!-- ... End Offers -->
 
-<!-- Background-mountains -->
-
-<!-- End Background-mountains -->
-
-
-<!-- Counters -->
 
 <div class="container-fluid">
     <div class="row bg-green-color">
@@ -641,9 +631,7 @@
                             <p class="heading-text c-white">Every client and project we work on is special to us.A selection of recent client projects.
                             </p>
                         </div>
-                        <div class="signature js-animate-icon">
-                        	<img src="img/psr.png" class="img-rounded" alt="Cinque Terre" width="200" height="60">
-                        </div>
+                       
                         <!-- <div class="signature js-animate-icon">
                             <svg xmlns="http://www.w3.org/2000/svg" width="200" height="60">
                                 <path fill="none" stroke="#2f2c2c" stroke-width="1.4"

@@ -116,6 +116,83 @@ $page_id="contact";
         </div>
     </div>
 </div>
+<div class="container">
+    <div class="row pt120 mb30">
+
+        <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
+            <div class="heading align-center">
+                <h4 class="heading-title h1">Web Development Services</h4>
+                <div class="heading-line">
+                    <span class="short-line"></span>
+                    <span class="long-line"></span>
+                </div>
+                <p class="heading-text">SOFS offer many different services to help you get setup for success
+                </p>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="row mb30">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div class="info-box--modern">
+                <div class="info-box-image">
+                    <img src="img/custom.png" alt="image">
+                </div>
+                <div class="info-box-content">
+                    <h5 class="info-box-title">Custom Web Application</h5>
+                    <p class="text">The advantage of custom web applications is that they are tailored exactly to the way your business works. Whether you need to build a custom web app from scratch, migrate your legacy backend, or streamline existing front-end functionality, we can accomplish that in an efficient and cost-effective manner.
+                    </p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div class="info-box--modern">
+                <div class="info-box-image">
+                    <img src="img/cloud.png" alt="image">
+                </div>
+                <div class="info-box-content">
+                    <h5 class="info-box-title">Cloud Development</h5>
+                    <p class="text">Cloud computing allows tapping into a pool of resources to quickly scale up as the number of users grows. We are experts at building complex cloud solutions that are highly scalable, optimized for performance, and secure. We design cloud-based microservices application architectures to enable speed, agility, safety, and massive scale.
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mb60">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div class="info-box--modern">
+                <div class="info-box-image">
+                    <img src="img/mobile.png" alt="image">
+                </div>
+                <div class="info-box-content">
+                    <h5 class="info-box-title">Mobile-Friendly Website Development</h5>
+                    <p class="text">The pervasive nature of portable devices make mobile web design a necessity. Our team of usabilty experts, graphic designers, and veteran front-end professionals will make sure your website looks and works great - no matter the screen size or resolution.
+                    </p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div class="info-box--modern">
+                <div class="info-box-image">
+                    <img src="img/ecommerce.png" alt="image">
+                </div>
+                <div class="info-box-content">
+                    <h5 class="info-box-title">eCommerce Website Development</h5>
+                    <p class="text">We are an eCommerce Website Development Company who offer custom design and development solutions.We will create website looks perfect in all the devices. We will optimize website helps you in search engine ranking and increase product sell.
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
 
 <!-- Info Box -->
 
