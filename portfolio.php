@@ -305,6 +305,20 @@ $page_id="portfolio";
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 sorting-item website seo bulk logo1">
+                    <div class="case-item align-center mb60">
+                        <div class="case-item__thumb mouseover lightbox shadow animation-disabled">
+                            <img src="img/case19.jpg" alt="our case">
+                        </div>
+                        <h6 class="case-item__title">SSFA</h6>
+                        <div class="case-item__cat">
+                            <a href="#">Web site,</a>
+                            <a href="#">SEO,</a>
+                            <a href="#">Logo,</a>
+                            <a href="#">Bulk sms</a>
+                        </div>
+                    </div>
+                </div>
             </div>
 
         </div>

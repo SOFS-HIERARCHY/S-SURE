@@ -35,6 +35,7 @@ $page_id="contact";
 
 <?php include 'includes/rightmenu.php';?>
 
+
 <div class="content-wrapper">
 
 <!-- Stunning header -->
@@ -103,11 +104,13 @@ $page_id="contact";
                     <ul class="list list--secondary">
                         <li>
                             <i class="seoicon-check"></i>
-                            <a href="#">SMS solution is a great way to engage & build customers. It offers Direct & instant communication with your clients. It take few seconds to send & deliver messages. </a>
+                         <a href="#">SMS solution is a great way to engage & build customers. It offers Direct & instant communication with your clients. It take few seconds to send & deliver messages. </a>
+
                         </li>
                         <li>
                             <i class="seoicon-check"></i>
-                            <a href="#">SMS service is very efficient to reach wide market. So this service can generate more leads, convert these leads into potential customers. Generate profit for your business.</a>
+    			      <a href="#">SMS service is very efficient to reach wide market. So this service can generate more leads, convert these leads into potential customers. Generate profit for your business.</a>
+
                         </li>
                     </ul>
                 </div>
@@ -116,8 +119,11 @@ $page_id="contact";
     </div>
 </div>
 
+
+<!-- Info Box -->
+
 <div class="container">
-    <div class="row pt120 mb30">
+    <div class="row pt120">
         <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
             <div class="heading align-center mb60">
                 <h4 class="h1 heading-title">The Best E-Marketing Strategy</h4>
@@ -135,12 +141,16 @@ $page_id="contact";
             <img src="img/marketing.png" alt="marketing">
         </div>
     </div>
+    <div class="row medium-padding120 bg-border-color">
+        
+    </div>
 </div>
 
+    
 
 <div class="container-fluid bg-green-color">
-  <div class="row pt120 mb30">
-    <div class="row medium-padding80">
+    <div class="row medium-padding120">
+
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 mb30">
             <img src="img/shop4sms.png" alt="local-seo">
         </div>
@@ -150,11 +160,10 @@ $page_id="contact";
 
                 <h3 class="h3 heading-title">Our Product.</h3>
 
-                 <p class="heading-text c-white">More Information about Bulk Sms Marketing and ideas to enchance your bussiness throught bulk sms services. We are always ready to help you promote your product & services. The best part of our Bulk SMS services is Guaranteed 100% delivery with lifetime validity!
+                <p class="heading-text c-white">More Information about Bulk Sms Marketing and ideas to enchance your bussiness throught bulk sms services. We are always ready to help you promote your product & services. The best part of our Bulk SMS services is Guaranteed 100% delivery with lifetime validity!
                 </p>
 
             </div>
-
             <a href="http://www.shop4sms.com/" class="btn btn-medium btn--light-green btn-hover-shadow">
                 <span class="text">Get access to</span>
                 <span class="semicircle"></span>
@@ -163,7 +172,6 @@ $page_id="contact";
 
     </div>
 </div>
-  </div>
 
 <div class="container">
     <div class="row pt120 mb30">
@@ -179,8 +187,119 @@ $page_id="contact";
             </div>
         </div>
 
-  
+    </div>
 
+    <!-- <div class="row pb120">
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+            <div class="teammembers-item">
+                <img src="img/teammember1.png" alt="team member">
+                <h5 class="teammembers-item-name">Peter Spenser</h5>
+                <p class="teammembers-item-prof">Copywriter</p>
+
+                <div class="socials">
+
+                    <a href="#" class="social__item">
+                        <img src="svg/circle-facebook.svg" alt="facebook">
+                    </a>
+
+                    <a href="#" class="social__item">
+                        <img src="svg/twitter.svg" alt="twitter">
+                    </a>
+
+                    <a href="#" class="social__item">
+                        <img src="svg/google.svg" alt="google">
+                    </a>
+
+                    <a href="#" class="social__item">
+                        <img src="svg/youtube.svg" alt="youtube">
+                    </a>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+            <div class="teammembers-item">
+                <img src="img/teammember2.png" alt="team member">
+                <h5 class="teammembers-item-name">Angelina Johnson</h5>
+                <p class="teammembers-item-prof">SEO Specialist</p>
+
+                <div class="socials">
+
+                    <a href="#" class="social__item">
+                        <img src="svg/circle-facebook.svg" alt="facebook">
+                    </a>
+
+                    <a href="#" class="social__item">
+                        <img src="svg/twitter.svg" alt="twitter">
+                    </a>
+
+                    <a href="#" class="social__item">
+                        <img src="svg/google.svg" alt="google">
+                    </a>
+
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+            <div class="teammembers-item">
+                <img src="img/teammember3.png" alt="team member">
+                <h5 class="teammembers-item-name">Philip Demarco</h5>
+                <p class="teammembers-item-prof">Senior Developer</p>
+
+                <div class="socials">
+
+                    <a href="#" class="social__item">
+                        <img src="svg/circle-facebook.svg" alt="facebook">
+                    </a>
+
+                    <a href="#" class="social__item">
+                        <img src="svg/twitter.svg" alt="twitter">
+                    </a>
+
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+            <div class="teammembers-item">
+                <img src="img/teammember4.png" alt="team member">
+                <h5 class="teammembers-item-name">James Anderson</h5>
+                <p class="teammembers-item-prof">Business Analyst</p>
+
+                <div class="socials">
+
+                    <a href="#" class="social__item">
+                        <img src="svg/circle-facebook.svg" alt="facebook">
+                    </a>
+
+                    <a href="#" class="social__item">
+                        <img src="svg/twitter.svg" alt="twitter">
+                    </a>
+
+                    <a href="#" class="social__item">
+                        <img src="svg/google.svg" alt="google">
+                    </a>
+
+                    <a href="#" class="social__item">
+                        <img src="svg/youtube.svg" alt="youtube">
+                    </a>
+
+                </div>
+            </div>
+        </div>
+    </div> -->
+
+<!-- End Team members -->
+
+
+<!-- Info boxes -->
+<div class="container-fluid">
+    <div class="row medium-padding120 bg-border-color">
+        <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-sx-12">
                     <div class="info-box--standard">
@@ -188,7 +307,7 @@ $page_id="contact";
                             <img src="img/info-box20.png" alt="image">
                         </div>
                         <div class="info-box-content">
-                          <p class="text">Send OTP Message and verify Mobile.Track all reports
+                            <p class="text">Send OTP Message and verify Mobile.Track all reports
                             </p>
                         </div>
                     </div>
@@ -211,21 +330,18 @@ $page_id="contact";
                             <img src="img/info-box22.png" alt="image">
                         </div>
                         <div class="info-box-content">
-                            <p class="text">Your user may live in any city of any country! We have got him covered. Guaranteed OTP.</p>
+                	    <p class="text">Your user may live in any city of any country! We have got him covered. Guaranteed OTP.</p>
                         </div>
                     </div>
                 </div>
             </div>
-              </div>
-        </div>
-       
-    </div>
-   
-
-<!-- Info Box -->
+ </div>
+ </div>
+ </div>
+</div>
+</div>
 
 <?php include 'includes/footer.php';?>
-
 
 <svg style="display:none;">
     <symbol id="arrow-left" viewBox="122.9 388.2 184.3 85">
@@ -279,6 +395,4 @@ $page_id="contact";
 <!-- ...end JS Script -->
 
 </body>
-
-<!-- Mirrored from cdn1.crumina.net/html-seosight/08_service_ppc_management.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 Dec 2016 07:30:51 GMT -->
 </html>

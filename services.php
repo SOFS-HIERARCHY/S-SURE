@@ -108,7 +108,8 @@
                 </div>
                 <div class="servises-item__content">
                     <h4 class="servises-title">Web Development</h4>
-                    <p class="servises-text">We create outstanding web applications. We value practical solutions, beautiful and intelligent designs, clean code, good architecture, effective database management, W3C Validation and above all we are committed to the success of your company with SEO.
+                    <p class="servises-text">We create outstanding web applications. Our expert team of Website Developers & Digital Strategists 
+use cutting edge technology & best practices to create custom sites that increase user engagement.We value practical solutions, effective database management, W3C Validation.
                     </p>
                 </div>
 
@@ -173,9 +174,8 @@
                     <img src="img/seo.png" alt="service">
                 </div>
                 <div class="servises-item__content">
-                    <h4 class="servises-title">Search Engine Optimisation & Digital Marketing</h4>
-                    <p class="servises-text">The heavy focus SOFS gives to goals is what separates us from other online marketing agencies. We aim to develop firm goals for all our clients such as enquiries, transactions or downloads.
-                    </p>
+                    <h4 class="servises-title">SEO & Digital Marketing</h4>
+                    <p class="servises-text">We at SOFS Technologies have an excellent team of Search Engine Optimizers who make it sure that your website gets surfaced on the prime pages of search engine results. we continue to monitor conversion ratios of the website.</p>
                 </div>
 
                 <a href="seo-digital.php" class="read-more"><i class="seoicon-right-arrow"></i></a>

@@ -10,9 +10,12 @@
 
                     <div class="col-lg-6 col-lg-offset-5 col-md-6 col-md-offset-5 col-sm-12 col-xs-12">
                         <h4 class="subscribe-title">Email Newsletters!</h4>
-				<form class="subscribe-form" action="footer_actions.php" enctype="multipart/form-data" method="post" autocomplete="off">
-					<input type="hidden" name="mode" value="user">                         
-					   <input class="email input-standard-grey input-white" name="email" required="required" placeholder="Your Email Address" type="email">
+                        
+                        <form class="subscribe-form" id="footer.php" action="home_actions.php" enctype="multipart/form-data" method="post" autocomplete="off">
+					<input type="hidden" name="mode" value="user">
+					               
+					   <input class="email input-standard-grey input-white" id="email" name="email" required="required" placeholder="Your Email Address" type="email">
+                            
                             <button class="subscr-btn" name="action">subscribe
                                 <span class="semicircle--right"></span>
                             </button>
@@ -209,6 +212,21 @@
             </div>
         </div>
     </div>
+<script src="../js/jquery-2.1.4.min.js"></script>
+<script src="../js/crum-mega-menu.js"></script>
+<script src="../js/swiper.jquery.min.js"></script>
+
+<script src="../js/theme-plugins.js"></script>
+<script src="../js/main.js"></script>
+
+<script src="../js/ScrollMagic.min.js"></script>
+<script src="../js/velocity.min.js"></script>
+<script src="../js/animation.velocity.min.js"></script>
+
+<script src="../js/ajax-pagination.js"></script>
+
+<!-- ...end JS Script -->
+
 
 </footer>
 

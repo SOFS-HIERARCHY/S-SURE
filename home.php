@@ -358,20 +358,20 @@
 
                             <div class="contact-form">
 
-                                <form role="home" id="home.php" action="home_actions.php" enctype="multipart/form-data" method="post" autocomplete="off">
-					<input type="hidden" name="mode" value="user">
+				                     <form role="home" id="home.php" action="home_actions.php" enctype="multipart/form-data" method="post" autocomplete="off">
+									<input type="hidden" name="mode" value="user">
                                     <div class="row">
 
                                         <div class="col-lg-8 no-padding col-md-12 col-xs-12 col-sm-12">
-                                            <input class="input-dark site" required="required" id="url" placeholder="Type in your Website URL you need">
+                                            <input class="input-dark site" id="url" required name="url"  placeholder="Type in your Website URL you need" type="text">
                                         </div>
                                         <div class="col-lg-4 no-padding col-md-12 col-xs-12 col-sm-12">
-                                            <input class="input-dark e-mail" required="required" id="mail_id" placeholder="Your Email" type="email">
+                                            <input class="input-dark e-mail" id="mail_id" required name="mail_id"  placeholder="Your Email" type="email">
                                         </div>
 
                                     </div>
 
-                                    <button class="btn btn-medium btn--green btn-hover-shadow">
+                                    <button class="btn btn-medium btn--green btn-hover-shadow" name="action">
                                         <span class="text">Check Up!</span>
                                         <span class="semicircle"></span>
                                     </button>
@@ -633,7 +633,7 @@
                              </div>
                         <!-- <div class="signature js-animate-icon">
                         	<img src="img/psr.png" class="img-rounded" alt="Cinque Terre" width="200" height="60">
-                        </div> -->
+                        </div>  -->
                         <!-- <div class="signature js-animate-icon">
                             <svg xmlns="http://www.w3.org/2000/svg" width="200" height="60">
                                 <path fill="none" stroke="#2f2c2c" stroke-width="1.4"
@@ -892,17 +892,17 @@
 <script src="js/jquery-2.1.4.min.js"></script>
 <script src="js/crum-mega-menu.js"></script>
 <script src="js/swiper.jquery.min.js"></script>
+
 <script src="js/theme-plugins.js"></script>
 <script src="js/main.js"></script>
-<script src="js/form-actions.js"></script>
 
-<script src="js/velocity.min.js"></script>
 <script src="js/ScrollMagic.min.js"></script>
+<script src="js/velocity.min.js"></script>
 <script src="js/animation.velocity.min.js"></script>
 
+<script src="js/ajax-pagination.js"></script>
 
 <!-- ...end JS Script -->
 
 </body>
-
 </html>

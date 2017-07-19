@@ -21,12 +21,12 @@ if($mode == "user")
 	$mail_id = $_REQUEST["mail_id"];
 	
 		
- /*  print_r($url);
-	exit; */
-
-				$qry_update="INSERT INTO `".TBL_CONTACT."` (`url`,`mail_id`)"
+/*  print_r($url);
+	exit;  */
+				$qry_update="INSERT INTO `".TBL_URL."` (`url`,`mail_id`)"
 				                        . " VALUES ('".$url."','".$mail_id."');";
 				$result_upload = $database->query( $qry_update );
+				
 
 				if($result_upload>0)
 					{
@@ -44,5 +44,39 @@ if($mode == "user")
 					}
 
 }
-   
+
+$mode=$_REQUEST["mode"];
+if($mode == "user")
+
+{
+	global $database, $db;
+	$email=$database->escape_value ($_REQUEST["email"]);
+
+
+
+	/*  print_r($url);
+	 exit;  */
+	$qry_update="INSERT INTO `".TBL_NEWSLETTER."` (`email`)"
+			. " VALUES ('".$email."');";
+			$result_upload = $database->query( $qry_update );
+
+
+			if($result_upload>0)
+			{
+				echo ("<SCRIPT LANGUAGE='JavaScript'>
+					    window.alert('Email sent successfully')
+					    window.location.href='footer.php';
+					    </SCRIPT>");
+			}
+			else
+			{
+				echo ("<SCRIPT LANGUAGE='JavaScript'>
+					    window.alert('Email sent failed. Please contact support')
+					    window.location.href='footer.php';
+					    </SCRIPT>");
+			}
+
+}
+
+
 ?>
