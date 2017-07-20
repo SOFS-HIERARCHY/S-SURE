@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-$page_id="contact";
+$page_id="software_development";
 ?>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -8,6 +8,7 @@ $page_id="contact";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>SOFS Technologies - Softaware Development</title>
+    <link rel="icon" type="image/png" href="img/favicon.png" />
 
     <link rel="stylesheet" type="text/css" href="css/fonts.css">
     <link rel="stylesheet" type="text/css" href="css/crumina-fonts.css">
@@ -102,11 +103,11 @@ $page_id="contact";
                     <ul class="list list--secondary">
                         <li>
                             <i class="seoicon-check"></i>
-                            <a href="#">We design and develop robust and scalable applications that yield maximum results in the competitive and ever-changing marketplace.</a>
+                            <a>We design and develop robust and scalable applications that yield maximum results in the competitive and ever-changing marketplace.</a>
                         </li>
                         <li>
                             <i class="seoicon-check"></i>
-                            <a href="#">We provide our clients accurate analysis and help them visualize their end-product before the development begins.</a>
+                            <a>We provide our clients accurate analysis and help them visualize their end-product before the development begins.</a>
                         </li>
                     </ul>
                 </div>
@@ -114,9 +115,27 @@ $page_id="contact";
         </div>
     </div>
 </div>
+</div>
 
 
+<div class="container">
+    <div class="row pt120">
+        <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
+            <div class="heading align-center mb60">
+                <h4 class="h1 heading-title">The Best Email Marketing Strategy</h4>
+                <div class="heading-line">
+                    <span class="short-line"></span>
+                    <span class="long-line"></span>
+                </div>
+            </div>
+        </div>
 
+        <div class="text-center">
+            <img src="img/software.png" alt="marketing">
+        </div>
+
+    </div>
+</div>
 <!-- Info Box -->
 
 <div class="container pt100 pb100">

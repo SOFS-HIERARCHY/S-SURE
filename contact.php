@@ -1,11 +1,4 @@
-<?php 
-error_reporting (E_ALL ^ E_NOTICE);
-$page_id="user_edit";
-include_once 'libs/class.database.php';
-include_once 'libs/class.session.php';
-include_once 'libs/functions.php';
-session_start();
-?>
+
 <!DOCTYPE html>
 <?php
 $page_id="contact";
@@ -16,6 +9,7 @@ $page_id="contact";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>SOFS Technologies - Contact Us</title>
+    <link rel="icon" type="image/png" href="img/favicon.png" />
 
     <link rel="stylesheet" type="text/css" href="css/fonts.css">
     <link rel="stylesheet" type="text/css" href="css/crumina-fonts.css">
@@ -124,7 +118,7 @@ $page_id="contact";
                         <div class="contacts-item">
                             <img src="img/contact8.png" alt="phone">
                             <div class="content">
-                                <a href="#" class="title">contact@sofs.in</a>
+                                <a class="title">contact@sofs.in</a>
                                 <p class="sub-title">online support</p>
                             </div>
                         </div>
@@ -134,7 +128,7 @@ $page_id="contact";
                         <div class="contacts-item">
                             <img src="img/contact9.png" alt="phone">
                             <div class="content">
-                                <a href="#" class="title">+91 427 404 2427</a>
+                                <a class="title">+91 427 404 2427</a>
                                 <p class="sub-title">Mon-Sat 9am-6pm</p>
                             </div>
                         </div>

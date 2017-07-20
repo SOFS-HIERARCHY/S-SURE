@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-$page_id="contact";
+$page_id="seo-digital";
 ?>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -8,6 +8,7 @@ $page_id="contact";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>SOFS Technologies - SEO & Digital Marketing</title>
+    <link rel="icon" type="image/png" href="img/favicon.png" />
 
     <link rel="stylesheet" type="text/css" href="css/fonts.css">
     <link rel="stylesheet" type="text/css" href="css/crumina-fonts.css">
@@ -41,7 +42,7 @@ $page_id="contact";
 
 <div class="stunning-header stunning-header-bg-green">
     <div class="stunning-header-content">
-        <h1 class="stunning-header-title">Search Engine Optimisation & Digital Marketing</h1>
+        <h1 class="stunning-header-title">SEO & Digital Marketing</h1>
         <ul class="breadcrumbs">
             <li class="breadcrumbs-item">
                 <a href="home.php">Home</a>
@@ -50,7 +51,7 @@ $page_id="contact";
                 <i class="seoicon-right-arrow"></i>
             </li>
             <li class="breadcrumbs-item active">
-                <span href="#">Search Engine Optimisation & Digital Marketing</span>
+                <span href="#">SEO & Digital Marketing</span>
                 <i class="seoicon-right-arrow"></i>
             </li>
         </ul>
@@ -90,7 +91,7 @@ $page_id="contact";
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="heading">
-                        <h4 class="h1 heading-title">Search Engine Optimisation & Digital Marketing</h4>
+                        <h4 class="h1 heading-title">SEO & Digital Marketing</h4>
                         <div class="heading-line">
                             <span class="short-line"></span>
                             <span class="long-line"></span>

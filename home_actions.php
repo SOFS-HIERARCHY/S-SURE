@@ -31,14 +31,14 @@ if($mode == "user")
 				if($result_upload>0)
 					{
 					echo ("<SCRIPT LANGUAGE='JavaScript'>
-					    window.alert('Email sent successfully')
+					    window.alert('Your request submit successfully, Our sales team will contact you shortly')
 					    window.location.href='home.php';
 					    </SCRIPT>");
 					}
 				else
 					{
 					echo ("<SCRIPT LANGUAGE='JavaScript'>
-					    window.alert('Email sent failed. Please contact support')
+					    window.alert('Your request sent failed. Please contact support')
 					    window.location.href='home.php';
 					    </SCRIPT>");
 					}

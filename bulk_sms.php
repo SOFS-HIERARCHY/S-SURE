@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-$page_id="contact";
+$page_id="bulk_sms";
 ?>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -8,6 +8,7 @@ $page_id="contact";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>SOFS Technologies - Bulk SMS</title>
+    <link rel="icon" type="image/png" href="img/favicon.png" />
 
     <link rel="stylesheet" type="text/css" href="css/fonts.css">
     <link rel="stylesheet" type="text/css" href="css/crumina-fonts.css">
@@ -104,12 +105,12 @@ $page_id="contact";
                     <ul class="list list--secondary">
                         <li>
                             <i class="seoicon-check"></i>
-                         <a href="#">SMS solution is a great way to engage & build customers. It offers Direct & instant communication with your clients. It take few seconds to send & deliver messages. </a>
+                         <a>SMS solution is a great way to engage & build customers. It offers Direct & instant communication with your clients. It take few seconds to send & deliver messages. </a>
 
                         </li>
                         <li>
                             <i class="seoicon-check"></i>
-    			      <a href="#">SMS service is very efficient to reach wide market. So this service can generate more leads, convert these leads into potential customers. Generate profit for your business.</a>
+    			      <a>SMS service is very efficient to reach wide market. So this service can generate more leads, convert these leads into potential customers. Generate profit for your business.</a>
 
                         </li>
                     </ul>
@@ -164,7 +165,7 @@ $page_id="contact";
                 </p>
 
             </div>
-            <a href="http://www.shop4sms.com/" class="btn btn-medium btn--light-green btn-hover-shadow">
+            <a href="http://www.shop4sms.com/" target="_blank" class="btn btn-medium btn--light-green btn-hover-shadow">
                 <span class="text">Get access to</span>
                 <span class="semicircle"></span>
             </a>

@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<?php
+$page_id="home";
+?>
 <html lang="en">
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -192,7 +195,7 @@
                                 <div class="col-lg-6 table-cell">
                                     <div class="slider-content">
 
-                                        <h3 class="h1 slider-content-title c-dark" data-swiper-parallax="-100">Search Engine Optimisation & Digital Marketing
+                                        <h3 class="h1 slider-content-title c-dark" data-swiper-parallax="-100">SEO & Digital Marketing
                                         </h3>
 
                                         <h5 class="slider-content-text" data-swiper-parallax="-200">The heavy focus SOFS gives to goals is what separates us from other online marketing agencies. We aim to develop firm goals for all our clients such as enquiries, transactions or downloads.
@@ -273,7 +276,7 @@
                     <a href="#" class="slides-item bg-green-color">
                         <div class="content">
                             <div class="text-wrap">
-                                <h4 class="slides-title">Search Engine Optimisation & Digital Marketing</h4>
+                                <h4 class="slides-title">SEO & Digital Marketing</h4>
                             </div>
                             <div class="slides-number">05</div>
                         </div>
@@ -426,15 +429,15 @@
                         <ul class="list list--secondary">
                             <li>
                                 <i class="seoicon-check"></i>
-                                <a href="#">Let language never be a barrier, since you can communicate to your audience in the language they are comfortable with.</a>
+                                <a>Let language never be a barrier, since you can communicate to your audience in the language they are comfortable with.</a>
                             </li>
                             <li>
                                 <i class="seoicon-check"></i>
-                                <a href="#">Powerful servers, technology, load balancers and of course our team makes sure that our services are always on, even in the downtime.</a>
+                                <a>Powerful servers, technology, load balancers and of course our team makes sure that our services are always on, even in the downtime.</a>
                             </li>
                             <li>
                                 <i class="seoicon-check"></i>
-                                <a href="#">Save millions of numbers, add them in different groups, arrange them according to your convenience, and do much more. The best phonebook in industry is here!</a>
+                                <a>Save millions of numbers, add them in different groups, arrange them according to your convenience, and do much more. The best phonebook in industry is here!</a>
                             </li>
                             </ul>
 
@@ -468,7 +471,7 @@
 
             </div>
 
-            <a href="http://www.shop4sms.com/" class="btn btn-medium btn--light-green btn-hover-shadow">
+            <a href="http://www.shop4sms.com/" target="_blank" class="btn btn-medium btn--light-green btn-hover-shadow">
                 <span class="text">Get access to</span>
                 <span class="semicircle"></span>
             </a>
@@ -662,8 +665,8 @@
                                         <div class="testimonial-content">
                                             <p class="text" data-swiper-parallax="-200">We are glad that we selected SOFS as a development partner for our product. A lot of success that we have is due to your timely execution and professional handling of the development. Thanks you for your help in giving shape to our dreams.
                                             </p>
-                                            <a href="#" class="author" data-swiper-parallax="-150">Saravanan</a>
-                                            <a href="#" class="company" data-swiper-parallax="-150">Fresh Farm Supermarkets</a>
+                                            <a class="author" data-swiper-parallax="-150">Saravanan</a>
+                                            <a class="company" data-swiper-parallax="-150">Fresh Farm Supermarkets</a>
 
                                         </div>
                                         <div class="avatar" data-swiper-parallax="-50">
@@ -674,8 +677,8 @@
                                         <div class="testimonial-content">
                                             <p class="text" data-swiper-parallax="-200">We are impressed with the quality you deliver. The ethical and impeccable conduct coupled with the project management approach you have makes you best in several Web deployment experience. Thanks for your unlimited services.
                                             </p>
-                                            <a href="#" class="author" data-swiper-parallax="-150">Balaji</a>
-                                            <a href="#" class="company" data-swiper-parallax="-150">Ajan Tours & Travels</a>
+                                            <a class="author" data-swiper-parallax="-150">Balaji</a>
+                                            <a class="company" data-swiper-parallax="-150">Ajan Tours & Travels</a>
 
                                         </div>
                                         <div class="avatar" data-swiper-parallax="-50">
@@ -686,8 +689,8 @@
                                         <div class="testimonial-content">
                                             <p class="text" data-swiper-parallax="-200">Working with SOFS is a pleasure. Their communication is outstanding! Job was done about in time, Thank you for also fixing some other issues along the way without a big fuss. Good knowledge of programming. Skilled, kind, trustworthy!
                                             </p>
-                                            <a href="#" class="author" data-swiper-parallax="-150">ilachezhian</a>
-                                            <a href="#" class="company" data-swiper-parallax="-150">Empreus solutions</a>
+                                            <a class="author" data-swiper-parallax="-150">ilachezhian</a>
+                                            <a class="company" data-swiper-parallax="-150">Empreus solutions</a>
 
                                         </div>
                                         <div class="avatar" data-swiper-parallax="-50">
@@ -746,7 +749,7 @@
                                 <div class="pricing-tables-icon">
                                     <img src="img/pricing1.png" alt="personal">
                                 </div>
-                                <a href="#" class="pricing-title">Personal</a>
+                                <a class="pricing-title">Personal</a>
                                 <ul class="pricing-tables-position">
                                     <li class="position-item">
                                         <span class="count">10</span>
@@ -780,7 +783,7 @@
                                 <div class="pricing-tables-icon">
                                     <img src="img/pricing2.png" alt="personal">
                                 </div>
-                                <a href="#" class="pricing-title">Webmaster</a>
+                                <a class="pricing-title">Webmaster</a>
                                 <ul class="pricing-tables-position">
                                     <li class="position-item">
                                         <span class="count">50</span>
@@ -814,7 +817,7 @@
                                 <div class="pricing-tables-icon">
                                     <img src="img/pricing3.png" alt="personal">
                                 </div>
-                                <a href="#" class="pricing-title">Professional</a>
+                                <a class="pricing-title">Professional</a>
                                 <ul class="pricing-tables-position">
                                     <li class="position-item">
                                         <span class="count">100</span>

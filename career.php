@@ -1,11 +1,3 @@
-<?php 
-error_reporting (E_ALL ^ E_NOTICE);
-$page_id="user_edit";
-include_once 'libs/class.database.php';
-include_once 'libs/class.session.php';
-include_once 'libs/functions.php';
-session_start();
-?>
 <!DOCTYPE html>
 <?php
 $page_id="career";
@@ -16,6 +8,7 @@ $page_id="career";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>SOFS Technologies & Services - CAREER AVAILABILITY</title>
+    <link rel="icon" type="image/png" href="img/favicon.png" />
 
     <link rel="stylesheet" type="text/css" href="css/fonts.css">
     <link rel="stylesheet" type="text/css" href="css/crumina-fonts.css">

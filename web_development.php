@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-$page_id="contact";
+$page_id="web_development";
 ?>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -8,6 +8,7 @@ $page_id="contact";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>SOFS Technologies - Web Development</title>
+    <link rel="icon" type="image/png" href="img/favicon.png" />
 
     <link rel="stylesheet" type="text/css" href="css/fonts.css">
     <link rel="stylesheet" type="text/css" href="css/crumina-fonts.css">
@@ -104,11 +105,11 @@ $page_id="contact";
                     <ul class="list list--secondary">
                         <li>
                             <i class="seoicon-check"></i>
-                            <a href="#">Our design team includes cutting edge technology professionals as well as creative artists and visualizers.</a>
+                            <a>Our design team includes cutting edge technology professionals as well as creative artists and visualizers.</a>
                         </li>
                         <li>
                             <i class="seoicon-check"></i>
-                            <a href="#">Our creative services department is devoted to developing a customized look and feel that will convey your application appropriately to your target audience.</a>
+                            <a>Our creative services department is devoted to developing a customized look and feel that will convey your application appropriately to your target audience.</a>
                         </li>
                     </ul>
                 </div>

@@ -27,27 +27,64 @@
                     <!-- menu-icon-wrapper -->
 
                     <ul class="primary-menu-menu">
-                        <li class="menu-item-has-children">
+                        <li class="menu-item-has-children <?php if($page_id == "home"){ echo "active"; } ?>">
                             <a href="home.php">Home</a>
                         </li>
                         
-                        <li class="menu-item-has-children">
+                        <li class="menu-item-has-children <?php if($page_id == "about"){ echo "active"; } ?>">
                             <a href="about.php">About Us</a>
                         </li>
 
-                        <li class="menu-item-has-children">
-                            <a href="Services.php">Our Services</a>
+                        <li class=" <?php if($page_id == "about"){ echo "active"; } ?> ">
+                            <a href="services.php">Services</a>
+                            <ul class="dropdown">
+                                <li class="megamenu-item-info">
+                                    <h5 class="megamenu-item-info-title">List of Services</h5>
+                                    <p class="megamenu-item-info-text">Choose a Service</p>
+                                </li>
+                                <li class="hover-ver2">
+                                    <a href="web_development.php"><i class="seoicon-pin-map"></i>
+                                       Web Development
+                                    </a>
+                                </li>
+                                <li class="hover-ver2">
+                                    <a href="software_development.php"><i class="seoicon-button"></i>
+                                      Software Development
+                                    </a>
+                                </li>
+                                <li class="hover-ver2">
+                                    <a href="mobile_app.php"><i class="seoicon-chat-comment"></i>
+                                      Mobile App Development
+                                    </a>
+                                </li>
+                                <li class="menu-item-has-children hover-ver2">
+                                    <a href="bulk_sms.php"><i class="seoicon-mail-send"></i>
+                                        Bulk Sms & E-Marketing
+                                    </a>
+                                </li>
+                                <li class="hover-ver2">
+                                    <a href="seo-digital.php"><i class="seoicon-search"></i>
+                                        SEO & Digital Marketing
+                                    </a>
+                                </li>
+                                <li class="menu-item-has-children hover-ver2">
+                                    <a href="services.php">
+                                        <i class="seoicon-pie-graph-split"></i>
+                                        Services Promo List
+                                    </a>
+                                </li>
+                            </ul>
                         </li>
                         
-                        <li class="menu-item-has-children">
+                        <li class="menu-item-has-children <?php if($page_id == "portfolio"){ echo "active"; } ?>">
                             <a href="portfolio.php">Our Portfolio</a>
                         </li>
                         
-                        <li class="menu-item-has-children">
+                        <li class="menu-item-has-children <?php if($page_id == "career"){ echo "active"; } ?>">
                             <a href="career.php">Career</a>
                         </li>
 
-                        <li class="">
+                        <li class="menu-item-has-children <?php if($page_id == "contact"){ echo "active"; } ?>">
                             <a href="contact.php">Contact Us</a>
                         </li>
                     </ul>

@@ -8,6 +8,7 @@ $page_id="contact";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>SOFS Technologies - Mobile App</title>
+    <link rel="icon" type="image/png" href="img/favicon.png" />
 
     <link rel="stylesheet" type="text/css" href="css/fonts.css">
     <link rel="stylesheet" type="text/css" href="css/crumina-fonts.css">
@@ -104,12 +105,12 @@ $page_id="contact";
                     <ul class="list list--secondary">
                         <li>
                             <i class="seoicon-check"></i>
-                          <a href="#">Mobile apps are designed with consideration for the demands and constraints of the devices and also to take advantage of any specialized capabilities they have.</a>
+                          <a>Mobile apps are designed with consideration for the demands and constraints of the devices and also to take advantage of any specialized capabilities they have.</a>
 
                         </li>
                         <li>
                             <i class="seoicon-check"></i>
-                          <a href="#">Through blog posts, app reviews, and earned media coverage, you re able to tell potential customers why your app is so great by describing unique features or helpful functions.</a>
+                          <a>Through blog posts, app reviews, and earned media coverage, you re able to tell potential customers why your app is so great by describing unique features or helpful functions.</a>
 
                         </li>
                     </ul>
