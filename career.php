@@ -93,6 +93,127 @@ $page_id="career";
 
 
 <div class="container-fluid">
+    <div class="row medium-padding120 bg-border-color">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+
+                    <div class="testimonial-arrow-slider">
+
+                        <div class="heading">
+                            <h4 class="h3 heading-title">ACCELERATE YOUR CAREER</h4>
+
+                            <div class="heading-line">
+                                <span class="short-line"></span>
+                                <span class="long-line"></span>
+                            </div>
+                       
+
+                                    <div class="testimonial-item testimonial-arrow mb30">
+                             	    <div class="testimonial-text">We work fast and together to build more creative design solutions on a global scale. We are looking for people passionate about accelerating innovation and creativity in 
+                             	    all disciplines - If you have that passion of doing the most creative work of your career? Our email ID is 
+                                    <a class="heading-text c-green" href="mailto:hr@sofs.in">hr@sofs.in</a>
+                                        </div>
+                                        <div class="quote">
+                                            <i class="seoicon-quotes"></i>
+                                        </div>
+                                    </div>
+                                     </div>
+                    </div>
+                </div>
+            
+
+
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                    <div class="heading mb60">
+                        <h4 class="h3 heading-title">Current Openings</h4>
+
+                        <div class="heading-line">
+                            <span class="short-line"></span>
+                            <span class="long-line"></span>
+                        </div>
+
+                    </div>
+
+                    <ul class="accordion" id="accordion">
+
+                        <li class="accordion-panel">
+                            <div class="panel-heading">
+                                <a href="#toggleSample" class="accordion-heading collapsed" data-toggle="collapse" data-parent="#accordion" aria-expanded="false">
+                                        <span class="icon">
+                                            <i class="fa fa-angle-right" aria-hidden="true"></i>
+                                            <i class="fa fa-angle-down active" aria-hidden="true"></i>
+                                        </span>
+                                    <span class="ovh">Web Development</span>
+                                </a>
+                            </div>
+
+                            <div id="toggleSample" class="panel-collapse collapse" aria-expanded="false" role="tree">
+                                <div class="panel-info">
+                                   <p><strong>Location - </strong>Salem</p>
+                                   <p><strong>Role - </strong>Web Developer</p>
+                                   <p><strong>Vacancy - </strong>1</p>
+                                   <p><strong>Experience - </strong>0-2 yrs</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="accordion-panel">
+
+                            <div class="panel-heading">
+
+                                <a href="#toggleSecond" class="accordion-heading collapsed" data-toggle="collapse" data-parent="#accordion" aria-expanded="false">
+                                        <span class="icon">
+                                            <i class="fa fa-angle-right" aria-hidden="true"></i>
+                                            <i class="fa fa-angle-down active" aria-hidden="true"></i>
+                                        </span>
+                                    <span class="ovh">XML Conversion</span>
+                                </a>
+                            </div>
+
+                            <div id="toggleSecond" class="panel-collapse collapse" aria-expanded="false" role="tree">
+                                <div class="panel-info">
+                                   <p><strong>Location - </strong>Salem</p>
+                                   <p><strong>Role - </strong>XML Operator</p>
+                                   <p><strong>Vacancy - </strong>1</p>
+                                   <p><strong>Experience - </strong>0-2 yrs</p>
+                                </div>
+                            </div>
+                        </li>
+
+
+                        <li class="accordion-panel">
+
+                            <div class="panel-heading">
+                                <a href="#toggleThird" class="accordion-heading collapsed" data-toggle="collapse" data-parent="#accordion" aria-expanded="false">
+                                        <span class="icon">
+                                            <i class="fa fa-angle-right" aria-hidden="true"></i>
+                                            <i class="fa fa-angle-down active" aria-hidden="true"></i>
+                                        </span>
+                                    <span class="ovh">Digital Marketing</span>
+                                </a>
+                            </div>
+
+                            <div id="toggleThird" class="panel-collapse collapse" aria-expanded="false" role="tree">
+                                <div class="panel-info">
+                                   <p><strong>Location - </strong>Salem</p>
+                                   <p><strong>Role - </strong>Digital Marketing Executive</p>
+                                   <p><strong>Vacancy - </strong>1</p>
+                                   <p><strong>Experience - </strong>0-2 yrs</p>
+                                </div>
+                            </div>
+
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container-fluid">
 
     <div class="row bg-boxed-black medium-padding120">
 
