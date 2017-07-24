@@ -253,9 +253,9 @@ $page_id="career";
 
                             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
-                                <label for="location" class="input-title">Location<abbr class="required" title="required">*</abbr></label>
+                                <label for="qualification" class="input-title">Qualification<abbr class="required" title="required">*</abbr></label>
 
-                                <input class="email focus-white input-standard-grey input-dark" id="location" required name="location" placeholder="" type="text">
+                                <input class="email focus-white input-standard-grey input-dark" id="qualification" required name="qualification" placeholder="" type="text">
 
                             </div>
 

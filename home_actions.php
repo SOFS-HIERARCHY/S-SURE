@@ -13,7 +13,7 @@ if(!$session->has_logged_in())
 } */
 
 $mode=$_REQUEST["mode"];
-if($mode == "user")
+if($mode == "url")
 
 {
 	global $database, $db;
@@ -64,15 +64,15 @@ if($mode == "user")
 			if($result_upload>0)
 			{
 				echo ("<SCRIPT LANGUAGE='JavaScript'>
-					    window.alert('Email sent successfully')
-					    window.location.href='footer.php';
+					    window.alert('Thanks for subscribing us!')
+					    window.location.href='home.php';
 					    </SCRIPT>");
 			}
 			else
 			{
 				echo ("<SCRIPT LANGUAGE='JavaScript'>
-					    window.alert('Email sent failed. Please contact support')
-					    window.location.href='footer.php';
+					    window.alert('Subscription failed. Please contact support')
+					    window.location.href='home.php';
 					    </SCRIPT>");
 			}
 

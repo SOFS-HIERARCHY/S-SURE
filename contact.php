@@ -189,7 +189,7 @@ $page_id="contact";
                     <input class="email input-standard-grey" id="name" required name="name" placeholder="Your Name" type="text">
                  </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-               		<input class="email input-standard-grey" id="qualification" required name="qualification" placeholder="Qualification" type="text">
+               		<input class="email input-standard-grey" id="location" required name="location" placeholder="Location" type="text">
                  </div>
 
                 

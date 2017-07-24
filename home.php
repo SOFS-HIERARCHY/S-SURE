@@ -362,7 +362,7 @@ $page_id="home";
                             <div class="contact-form">
 
 				                     <form role="home" id="home.php" action="home_actions.php" enctype="multipart/form-data" method="post" autocomplete="off">
-									<input type="hidden" name="mode" value="user">
+									<input type="hidden" name="mode" value="url">
                                     <div class="row">
 
                                         <div class="col-lg-8 no-padding col-md-12 col-xs-12 col-sm-12">

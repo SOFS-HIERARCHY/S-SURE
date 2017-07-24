@@ -1,0 +1,19 @@
+DirectoryIndex home.php
+
+IndexIgnore *
+
+ErrorDocument 503 http://www.sofs.in/404.php
+ErrorDocument 401 http://www.sofs.in/404.php
+ErrorDocument 500 http://www.sofs.in/404.php
+#ErrorDocument 301 http://www.sofs.in/404.php
+ErrorDocument 403 http://www.sofs.in/404.php
+ErrorDocument 400 http://www.sofs.in/404.php
+ErrorDocument 408 http://www.sofs.in/404.php
+ErrorDocument 302 http://www.sofs.in/404.php
+ErrorDocument 405 http://www.sofs.in/404.php
+ErrorDocument 415 http://www.sofs.in/404.php
+ErrorDocument 404 http://www.sofs.in/404.php
+ErrorDocument 501 http://www.sofs.in/404.php
+ErrorDocument 502 http://www.sofs.in/404.php
+ErrorDocument 504 http://www.sofs.in/404.php
+ErrorDocument 505 http://www.sofs.in/404.php

@@ -23,7 +23,7 @@ if($mode == "user")
 	$name=$database->escape_value ($_REQUEST["name"]);
 	$email = $_REQUEST["email"];
 	$contact = $_REQUEST["contact"];
-	$location = $_REQUEST["location"];
+	$qualification = $_REQUEST["qualification"];
 	$details = $_REQUEST["details"];
 	$resume = $_REQUEST["resume"];
 	if(move_uploaded_file($_FILES['resume']['tmp_name'], $target_path. $_FILES["resume"]['name']))
@@ -33,21 +33,21 @@ if($mode == "user")
 	/* print_r($fileName);
 	exit; */
 
-				$qry_update="INSERT INTO `".TBL_CAREER."` (`name`,`email`,`contact`,`location`,`details`,`resume`)"
-				                        . " VALUES ('".$name."','".$email."','".$contact."','".$location."','".$details."','".$fileName."');";
+				$qry_update="INSERT INTO `".TBL_CAREER."` (`name`,`email`,`contact`,`qualification`,`details`,`resume`)"
+				                        . " VALUES ('".$name."','".$email."','".$contact."','".$qualification."','".$details."','".$fileName."');";
 				$result_upload = $database->query( $qry_update );
 
 				if($result_upload>0)
 					{
 					echo ("<SCRIPT LANGUAGE='JavaScript'>
-					    window.alert('Email sent successfully')
+					    window.alert('Request submitted successfully!. Our HR team will contact you shortly.')
 					    window.location.href='career.php';
 					    </SCRIPT>");
 					}
 				else
 					{
 					echo ("<SCRIPT LANGUAGE='JavaScript'>
-					    window.alert('Email sent failed. Please contact support')
+					    window.alert('Request failed. Please contact support')
 					    window.location.href='career.php';
 					    </SCRIPT>");
 					}
