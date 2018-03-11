@@ -8,7 +8,7 @@ include_once "class.database.php";
 
 class Emp_Authendicate
 {
-    protected static $table_name = TBL_ADMINS;
+    protected static $table_name = TBL_USER;
     function __construct(){
         
     }
@@ -21,7 +21,7 @@ class Emp_Authendicate
 			$sql  = "SELECT * FROM ".self::$table_name;
 			$sql .= " WHERE username = '{$username}' ";
 			$sql .= " AND password = '{$password}' ";
-                        $sql .= " AND status='Active' ";
+                        $sql .= " AND isactive='1' ";
                         $sql .= " LIMIT 1";
 
 			$result_array = self::find_by_sql($sql);

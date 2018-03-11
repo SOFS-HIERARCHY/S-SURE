@@ -20,13 +20,12 @@ function __construct()
 public function set_session($uservalue)
 {
 	    $_SESSION['SOFS_Login']=true;
-	    $_SESSION['LF_Userid']=$uservalue["id"];
-	    $_SESSION['LF_name']=$uservalue["fullname"];
-	    $_SESSION['LF_username']=$uservalue["username"];
-	    $_SESSION['LF_mobile']=$uservalue["mobile"];
-	    $_SESSION['LF_image']=$uservalue["image"];
-	    $_SESSION['LF_mail']=$uservalue["mail"];
-	    $_SESSION['LF_status']=$uservalue["status"];
+	    $_SESSION['SOFS_Userid']=$uservalue["id"];
+	    $_SESSION['SOFS_isAdmin']=$uservalue["account_type"];
+	    $_SESSION['SOFS_isactive']=$uservalue["isActive"];
+	    $_SESSION['SOFS_username']=$uservalue["username"];
+	    $_SESSION['SOFS_image']=$uservalue["image"];
+	    $_SESSION['SOFS_name']=$uservalue["name"];
 	   	/* print_r($_SESSION['VFA_Userid']);
 	     exit;  */
 }
@@ -56,7 +55,7 @@ public function has_logged_in()
 		 */
 /* 		print_r($_SESSION['VFA_Login']);
 			exit; */
-			if($_SESSION['LF_status'] == Active)
+			if($_SESSION['SOFS_isactive'] == 1)
 			{
 			  return TRUE;
 			   
